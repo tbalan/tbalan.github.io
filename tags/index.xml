@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
+<<<<<<< HEAD
     <title>Tags on Academic</title>
     <link>/tags/</link>
     <description>Recent content in Tags on Academic</description>
@@ -55,6 +56,17 @@
       <guid>/tags/jekyll/</guid>
       <description></description>
     </item>
+=======
+    <title>Tags on A Hugo website</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on A Hugo website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+>>>>>>> 0500463f046480a432df3750c30eb212f17f8284
     
     <item>
       <title>Plot</title>
@@ -84,4 +96,8 @@
     </item>
     
   </channel>
+<<<<<<< HEAD
 </rss>
+=======
+</rss>
+>>>>>>> 0500463f046480a432df3750c30eb212f17f8284
