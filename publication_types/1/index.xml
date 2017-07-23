@@ -20,15 +20,5 @@
 </description>
     </item>
     
-    <item>
-      <title>Score test for association between recurrent events and a terminal event</title>
-      <link>https://teddybalan.github.io/publication/score_test/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://teddybalan.github.io/publication/score_test/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
   </channel>
 </rss>
