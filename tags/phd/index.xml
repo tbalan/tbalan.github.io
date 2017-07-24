@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Theodor Adrian Balan</title>
-    <link>https://teddybalan.github.io/project/</link>
-    <description>Recent content in Projects on Theodor Adrian Balan</description>
+    <title>Phd on Theodor Adrian Balan</title>
+    <link>https://teddybalan.github.io/tags/phd/</link>
+    <description>Recent content in Phd on Theodor Adrian Balan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Theodor Adrian Balan</copyright>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/project/" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/phd/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Advances in frailty models</title>
@@ -18,15 +18,6 @@
       <guid>https://teddybalan.github.io/project/advances-frailty/</guid>
       <description>&lt;p&gt;Shared fraily models are &amp;hellip;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>External Project</title>
-      <link>https://teddybalan.github.io/project/example-external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://teddybalan.github.io/project/example-external-project/</guid>
-      <description></description>
     </item>
     
   </channel>
