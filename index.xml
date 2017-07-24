@@ -17,7 +17,8 @@
       
       <guid>https://teddybalan.github.io/talk/example-talk/</guid>
       <description>&lt;p&gt;The video can be found here
-&lt;a href=&#34;http://img.youtube.com/vi/-kY5yozM6h4/0.jpg&#34; target=&#34;_blank&#34;&gt;puya&lt;/a&gt;](&lt;a href=&#34;http://www.youtube.com/watch?v=-kY5yozM6h4&#34; target=&#34;_blank&#34;&gt;http://www.youtube.com/watch?v=-kY5yozM6h4&lt;/a&gt;)&lt;/p&gt;
+&lt;a href=&#34;http://www.youtube.com/watch?v=-kY5yozM6h4&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;http://img.youtube.com/vi/-kY5yozM6h4/0.jpg&#34; alt=&#34;IMAGE ALT TEXT HERE&#34; /&gt;&lt;/a&gt;
+Embed your slides or video here using &lt;a href=&#34;https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
