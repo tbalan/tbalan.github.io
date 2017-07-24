@@ -11,6 +11,30 @@
     <atom:link href="/talk/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>From scripts to packages: how to be disciplined about your R code</title>
+      <link>https://teddybalan.github.io/talk/r_discipline/</link>
+      <pubDate>Thu, 13 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://teddybalan.github.io/talk/r_discipline/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-proportional hazards or unobserved heterogeneity in clustered survival data: Can we tell the difference?</title>
+      <link>https://teddybalan.github.io/talk/smallclusters/</link>
+      <pubDate>Tue, 11 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://teddybalan.github.io/talk/smallclusters/</guid>
+      <description>&lt;p&gt;I gave talks on this subject at the following events:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;IBS Channel Network Conference 2017&lt;/em&gt;, 24-26 April 2017, Hasselt, Belgium&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;9th EMR-IBS and Italian Region Conference&lt;/em&gt;, 8-12 May 2017, Thessaloniki, Greece&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Dynamic frailty models for recurrent events data</title>
       <link>https://teddybalan.github.io/talk/pta2016/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
@@ -22,21 +46,6 @@
 &lt;li&gt;&lt;em&gt;Avoiding Bias induced by Design and Analysis in Life History Cohort Studies&lt;/em&gt;, 21-23 September, Freiburg, Germany&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Population-based Time-to-event Analyses&lt;/em&gt;, 31 August – 2 September, London, UK&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;28th International Biometric Conference&lt;/em&gt;, 10-15 July, Victoria, Canada&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Non-proportional hazards or unobserved heterogeneity in clustered survival data: Can we tell the difference?</title>
-      <link>https://teddybalan.github.io/talk/smallclusters/</link>
-      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://teddybalan.github.io/talk/smallclusters/</guid>
-      <description>&lt;p&gt;I gave talks on this subject at the following events:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;IBS Channel Network Conference 2017&lt;/em&gt;, 24-26 April 2017, Hasselt, Belgium&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;9th EMR-IBS and Italian Region Conference&lt;/em&gt;, 8-12 May 2017, Thessaloniki, Greece&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

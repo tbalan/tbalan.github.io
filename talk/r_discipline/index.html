@@ -39,11 +39,11 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/apple-touch-icon.png">
 
-  <link rel="canonical" href="https://teddybalan.github.io/talk/smallclusters/">
+  <link rel="canonical" href="https://teddybalan.github.io/talk/r_discipline/">
 
   
 
-  <title>Non-proportional hazards or unobserved heterogeneity in clustered survival data: Can we tell the difference? | Theodor Adrian Balan</title>
+  <title>From scripts to packages: how to be disciplined about your R code | Theodor Adrian Balan</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#navbar-main" data-offset="71">
@@ -157,7 +157,7 @@
   <div class="article-container">
 
     <div class="pub-title">
-      <h1 itemprop="name">Non-proportional hazards or unobserved heterogeneity in clustered survival data: Can we tell the difference?</h1>
+      <h1 itemprop="name">From scripts to packages: how to be disciplined about your R code</h1>
       <span class="pub-authors" itemprop="author">
         
       </span>
@@ -167,35 +167,35 @@
   <ul class="share">
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fteddybalan.github.io%2ftalk%2fsmallclusters%2f"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fteddybalan.github.io%2ftalk%2fr_discipline%2f"
          target="_blank">
         <i class="fa fa-facebook"></i>
       </a>
     </li>
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=Non-proportional%20hazards%20or%20unobserved%20heterogeneity%20in%20clustered%20survival%20data%3a%20Can%20we%20tell%20the%20difference%3f&amp;url=https%3a%2f%2fteddybalan.github.io%2ftalk%2fsmallclusters%2f"
+         href="https://twitter.com/intent/tweet?text=From%20scripts%20to%20packages%3a%20how%20to%20be%20disciplined%20about%20your%20R%20code&amp;url=https%3a%2f%2fteddybalan.github.io%2ftalk%2fr_discipline%2f"
          target="_blank">
         <i class="fa fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fteddybalan.github.io%2ftalk%2fsmallclusters%2f&amp;title=Non-proportional%20hazards%20or%20unobserved%20heterogeneity%20in%20clustered%20survival%20data%3a%20Can%20we%20tell%20the%20difference%3f"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fteddybalan.github.io%2ftalk%2fr_discipline%2f&amp;title=From%20scripts%20to%20packages%3a%20how%20to%20be%20disciplined%20about%20your%20R%20code"
          target="_blank">
         <i class="fa fa-linkedin"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fteddybalan.github.io%2ftalk%2fsmallclusters%2f&amp;title=Non-proportional%20hazards%20or%20unobserved%20heterogeneity%20in%20clustered%20survival%20data%3a%20Can%20we%20tell%20the%20difference%3f"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fteddybalan.github.io%2ftalk%2fr_discipline%2f&amp;title=From%20scripts%20to%20packages%3a%20how%20to%20be%20disciplined%20about%20your%20R%20code"
          target="_blank">
         <i class="fa fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=Non-proportional%20hazards%20or%20unobserved%20heterogeneity%20in%20clustered%20survival%20data%3a%20Can%20we%20tell%20the%20difference%3f&amp;body=https%3a%2f%2fteddybalan.github.io%2ftalk%2fsmallclusters%2f">
+         href="mailto:?subject=From%20scripts%20to%20packages%3a%20how%20to%20be%20disciplined%20about%20your%20R%20code&amp;body=https%3a%2f%2fteddybalan.github.io%2ftalk%2fr_discipline%2f">
         <i class="fa fa-envelope"></i>
       </a>
     </li>
@@ -208,7 +208,7 @@
 
     
       <h3>Abstract</h3>
-      <p class="pub-abstract" itemprop="text">In survival analysis, shared frailty (random effect) models are often used in the context of heterogeneous survival data, such as clustered failures or recurrent events. In [Hougaard (2000)] a large family of distributions for the random effects were proposed, including the positive stable and compound Poisson distributions with mass at 0. The estimation of semiparametric frailty models with general distributions has proved challenging. It is common to assume that the effects of the covariates are proportional on the hazard scale, although this implies, for most frailty distributions, that the marginal effect is non-proportional. For the situation when clusters are small, or there are only a few recurrent events per individual, it is difficult to distinguish between a non-proportional effect of the covariates and the presence of a random effect. We introduce a novel software implementation of the semiparametric shared frailty model with a very flexible choice for the frailty distribution, consistently implemented for clustered failures with left truncation and recurrent event data analysis. With these means, we study the small sample behaviour of the tests statistics for the presence of the random effects, the sensitivity to the proportional hazards assumption, and the coverage of confidence intervals. </p>
+      <p class="pub-abstract" itemprop="text">During a PhD programme, it is common to write a lot of code. Quite quickly, this can become difficult to manage. Going back to code that was written one year ago might seem like a horror experience. Small changes in data sets might make methods programmed a while ago unusable. From some old projects, an impossible to navigate labyrinth of folders and files is left behind. There is a lot of talk about producing reproducible research in biostatistics. As this will get more important in the future, structuring code in one way or another becomes a necessity. Some journals already require authors to provide the code used for simulation or data analysis. And those that do not do that, probably will at some point in the future. Soon after I started my PhD, I realized how unsustainable the (lack of) organization of my R scripts was. However, discipline did not get built over night. It was a gradual process, adopting one useful tool at a time. Years later, as I saw my first R package on CRAN, I realized how much time and energy I could have saved. All I had to do was to invest a bit of time in the beginning. In this talk, I will present lessons I learned in transitioning from writing scripts to writing packages. This includes writing tidy functions and tidy code, properly documenting scripts and functions with rmarkdown, version control with git, developing, checking and documenting R packages with RStudio. I will discuss advantages and caveats of the different tools. Looking back, I wish someone would have told me all these things earlier. Finally, I hope that this will underline the importance of discipline in coding for a young researcher in biostatistics.</p>
     
 
     <div class="row">
@@ -217,7 +217,7 @@
         <div class="row">
           <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
           <div class="col-xs-12 col-sm-9" itemprop="datePublished">
-            Tue, Jul 11, 2017
+            Thu, Jul 13, 2017
           </div>
         </div>
       </div>
@@ -288,13 +288,7 @@
     <div class="space-below"></div>
 
     <div class="article-style">
-      <p>I gave talks on this subject at the following events:</p>
-
-<ul>
-<li><em>IBS Channel Network Conference 2017</em>, 24-26 April 2017, Hasselt, Belgium</li>
-<li><em>9th EMR-IBS and Italian Region Conference</em>, 8-12 May 2017, Thessaloniki, Greece</li>
-</ul>
-
+      
     </div>
 
   </div>
@@ -304,13 +298,10 @@
   <nav>
   <ul class="pager">
     
-    <li class="previous"><a href="https://teddybalan.github.io/talk/pta2016/"><span
-      aria-hidden="true">&larr;</span> Dynamic frailty models for recurrent events data</a></li>
+    <li class="previous"><a href="https://teddybalan.github.io/talk/smallclusters/"><span
+      aria-hidden="true">&larr;</span> Non-proportional hazards or unobserved heterogeneity in clustered survival data: Can we tell the difference?</a></li>
     
 
-    
-    <li class="next"><a href="https://teddybalan.github.io/talk/r_discipline/">From scripts to packages: how to be disciplined about your R code <span
-      aria-hidden="true">&rarr;</span></a></li>
     
   </ul>
 </nav>
