@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Phd on Theodor Adrian Balan</title>
+    <link>https://teddybalan.github.io/tags/phd/</link>
+    <description>Recent content in Phd on Theodor Adrian Balan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Theodor Adrian Balan</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/phd/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Frailty models</title>
+      <link>https://teddybalan.github.io/project/advances-frailty/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://teddybalan.github.io/project/advances-frailty/</guid>
+      <description>&lt;p&gt;Shared fraily models are &amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
