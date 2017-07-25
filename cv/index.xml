@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Curriculum Vitae on Theodor Adrian Balan</title>
+    <link>https://teddybalan.github.io/cv/</link>
+    <description>Recent content in Curriculum Vitae on Theodor Adrian Balan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Theodor Adrian Balan</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/cv/" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>
