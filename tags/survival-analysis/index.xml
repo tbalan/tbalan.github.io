@@ -11,12 +11,42 @@
     <atom:link href="/tags/survival-analysis/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Frailty models</title>
+      <title>PhD thesis: Advances in frailty models</title>
       <link>https://teddybalan.github.io/project/advances-frailty/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://teddybalan.github.io/project/advances-frailty/</guid>
-      <description>&lt;p&gt;Shared fraily models are &amp;hellip;&lt;/p&gt;
+      <description>&lt;p&gt;Imagine we have a device that ticks every now and then, and denote the number of ticks up to time $t$ as
+$N(t)$. Broadly speaking, the goal of survival analysis is to determine the &lt;em&gt;intensity&lt;/em&gt; of this process,
+so as to answer how likely it is that, after observing this device for a while, we would expect another
+tick to happen in the next period of time.&lt;/p&gt;
+
+&lt;p&gt;This quantity is usually modeled like:
+$$
+h(t) = h_0(t) \exp(\beta^\top \mathbf{x}(t))
+$$
+where $h_0(t)$ is a &lt;em&gt;baseline&lt;/em&gt; intensity and $\mathbf{x}(t)$ represents a number of possibly time dependent factors,
+or knowledge that we have about $N(t)$, that we believe it might influence the intensity. This is called a
+&lt;em&gt;proportional intensity&lt;/em&gt; model and has been developed from the 70s.
+The term &lt;em&gt;survival analysis&lt;/em&gt; comes from the situation where $N$ can only click once, usually representing death.&lt;/p&gt;
+
+&lt;p&gt;Frailty models come in for two big reasons:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;usually we do not know &lt;em&gt;all&lt;/em&gt; the factors that may influence $h(t)$.&lt;/li&gt;
+&lt;li&gt;when several devices are related in a way that is difficult to quantify (thinking similar unmeasured genetic build or similar environmental conditions that can&amp;rsquo;t be measured), we know that the tickers are related, and this information must be incorporated somehow&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;So in essence we claim that there is an unobservable variable $Z$ that affects $h(t)$. If we had observed $Z$ (which we don&amp;rsquo;t), then the intensity of $N(t)$ would be
+$$
+h(t) = Z h_0(t) \exp(\beta^\top \mathbf{x}(t)).
+$$&lt;/p&gt;
+
+&lt;p&gt;We can work out that this is essentially a linear random intercept mixed model for the log-intensity. It turns out that, compared to regular linear mixed models, this leads to a large number of surprising results, while the estimation is in general challenging.&lt;/p&gt;
+
+&lt;p&gt;This type of models is still controversial to some extent, as they do involve a healthy dose of speculation. However, often, we are interested in the &lt;em&gt;conditional&lt;/em&gt; treatment effect rather than the &lt;em&gt;marginal&lt;/em&gt;, that is, the effect on the individual and not that on the population.&lt;/p&gt;
+
+&lt;p&gt;The aim of my PhD is to study how these things relate in the real world.&lt;/p&gt;
 </description>
     </item>
     
