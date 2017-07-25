@@ -85,7 +85,11 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://teddybalan.github.io/project/advances-frailty/</guid>
-      <description>&lt;p&gt;Imagine we have a device that ticks every now and then, and denote the number of ticks up to time $t$ as
+      <description>
+
+&lt;h3 id=&#34;what-are-frailty-models&#34;&gt;What are frailty models?&lt;/h3&gt;
+
+&lt;p&gt;Imagine we have a device that ticks every now and then, and denote the number of ticks up to time $t$ as
 $N(t)$. Broadly speaking, the goal of survival analysis is to determine the &lt;em&gt;intensity&lt;/em&gt; of this process,
 so as to answer how likely it is that, after observing this device for a while, we would expect another
 tick to happen in the next period of time.&lt;/p&gt;
@@ -115,7 +119,9 @@ $$&lt;/p&gt;
 
 &lt;p&gt;This type of models is still controversial to some extent, as they do involve a healthy dose of speculation. However, often, we are interested in the &lt;em&gt;conditional&lt;/em&gt; treatment effect rather than the &lt;em&gt;marginal&lt;/em&gt;, that is, the effect on the individual and not that on the population.&lt;/p&gt;
 
-&lt;p&gt;The aim of my PhD is to study how these things relate in the real world.&lt;/p&gt;
+&lt;h3 id=&#34;what-is-the-purpose-of-my-phd&#34;&gt;What is the purpose of my PhD?&lt;/h3&gt;
+
+&lt;p&gt;The aim of my PhD is to study how these things relate in the real world. I work with prof. Hein Putter to develop tools and solutions for several&lt;/p&gt;
 </description>
     </item>
     
