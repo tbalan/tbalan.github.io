@@ -39,11 +39,11 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/apple-touch-icon.png">
 
-  <link rel="canonical" href="https://teddybalan.github.io/project/advances-frailty/">
+  <link rel="canonical" href="https://teddybalan.github.io/project/msc-thesis/">
 
   
 
-  <title>PhD thesis: Advances in frailty models | Theodor Adrian Balan</title>
+  <title>MSc thesis | Theodor Adrian Balan</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#navbar-main" data-offset="71">
@@ -146,7 +146,7 @@
   <div class="article-container">
 
     <div class="pub-title">
-      <h1 itemprop="name">PhD thesis: Advances in frailty models</h1>
+      <h1 itemprop="name">MSc thesis</h1>
       <span class="pub-authors" itemprop="author">&nbsp;</span>
       <span class="pull-right">
         
@@ -154,35 +154,35 @@
   <ul class="share">
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fteddybalan.github.io%2fproject%2fadvances-frailty%2f"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fteddybalan.github.io%2fproject%2fmsc-thesis%2f"
          target="_blank">
         <i class="fa fa-facebook"></i>
       </a>
     </li>
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=PhD%20thesis%3a%20Advances%20in%20frailty%20models&amp;url=https%3a%2f%2fteddybalan.github.io%2fproject%2fadvances-frailty%2f"
+         href="https://twitter.com/intent/tweet?text=MSc%20thesis&amp;url=https%3a%2f%2fteddybalan.github.io%2fproject%2fmsc-thesis%2f"
          target="_blank">
         <i class="fa fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fteddybalan.github.io%2fproject%2fadvances-frailty%2f&amp;title=PhD%20thesis%3a%20Advances%20in%20frailty%20models"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fteddybalan.github.io%2fproject%2fmsc-thesis%2f&amp;title=MSc%20thesis"
          target="_blank">
         <i class="fa fa-linkedin"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fteddybalan.github.io%2fproject%2fadvances-frailty%2f&amp;title=PhD%20thesis%3a%20Advances%20in%20frailty%20models"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fteddybalan.github.io%2fproject%2fmsc-thesis%2f&amp;title=MSc%20thesis"
          target="_blank">
         <i class="fa fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=PhD%20thesis%3a%20Advances%20in%20frailty%20models&amp;body=https%3a%2f%2fteddybalan.github.io%2fproject%2fadvances-frailty%2f">
+         href="mailto:?subject=MSc%20thesis&amp;body=https%3a%2f%2fteddybalan.github.io%2fproject%2fmsc-thesis%2f">
         <i class="fa fa-envelope"></i>
       </a>
     </li>
@@ -194,54 +194,11 @@
     </div>
 
     
+    <a class="btn btn-primary btn-outline" href="http://web.math.leidenuniv.nl/scripties/MasterBalan.pdf" target="_blank">Go to Project Site</a>
+    
 
     <div class="article-style" itemprop="articleBody">
       
-
-<h3 id="what-are-frailty-models">What are frailty models?</h3>
-
-<p>Imagine we have a device that ticks every now and then, and denote the number of ticks up to time $t$ as
-$N(t)$. Broadly speaking, the goal of survival analysis is to determine the <em>intensity</em> of this process,
-so as to answer how likely it is that, after observing this device for a while, we would expect another
-tick to happen in the next period of time.</p>
-
-<p>This quantity is usually modeled like:
-$$
-h(t) = h_0(t) \exp(\beta^\top \mathbf{x}(t))
-$$
-where $h_0(t)$ is a <em>baseline</em> intensity and $\mathbf{x}(t)$ represents a number of possibly time dependent factors,
-or knowledge that we have about $N(t)$, that we believe it might influence the intensity. This is called a
-<em>proportional intensity</em> model and has been developed from the 70s.
-The term <em>survival analysis</em> comes from the situation where $N$ can only click once, usually representing death.</p>
-
-<p>Frailty models come in for two big reasons:</p>
-
-<ul>
-<li>usually we do not know <em>all</em> the factors that may influence $h(t)$.</li>
-<li>when several devices are related in a way that is difficult to quantify (thinking similar unmeasured genetic build or similar environmental conditions that can&rsquo;t be measured), we know that the tickers are related, and this information must be incorporated somehow</li>
-</ul>
-
-<p>So in essence we claim that there is an unobservable variable $Z$ that affects $h(t)$. If we had observed $Z$ (which we don&rsquo;t), then the intensity of $N(t)$ would be
-$$
-h(t) = Z h_0(t) \exp(\beta^\top \mathbf{x}(t)).
-$$</p>
-
-<p>We can work out that this is essentially a linear random intercept mixed model for the log-intensity. It turns out that, compared to regular linear mixed models, this leads to a large number of surprising results, while the estimation is in general challenging.</p>
-
-<p>This type of models is still controversial to some extent, as they do involve a healthy dose of speculation. However, often, we are interested in the <em>conditional</em> treatment effect rather than the <em>marginal</em>, that is, the effect on the individual and not that on the population.</p>
-
-<h3 id="what-is-the-purpose-of-my-phd">What is the purpose of my PhD?</h3>
-
-<p>The aim of my PhD is to study how these things relate in the real world.</p>
-
-<ul>
-<li>In <a href="http://onlinelibrary.wiley.com/doi/10.1002/sim.6913/full" target="_blank">Score test for association between recurrent events and a terminal event</a>, we developed, well&hellip; a score test to see whether a recurrent event process and a terminal event process are associated or not. The same idea can be used to test for dependent censoring of a recurrent event process. This is partially implemented in the <code>frailtyEM</code> package.</li>
-<li>In <a href="http://onlinelibrary.wiley.com/doi/10.1002/sim.6968/full" target="_blank">Ascertainment correction in frailty models for recurrent events data</a>, we looked at what happens when you select individual histories of recurrent events based on a number of events having happened in a certain calendar time period. We propose a fix for that and an iterative estimation method.</li>
-<li>In the <a href="https://CRAN.R-project.org/package=frailtyEM" target="_blank">frailtyEM: An R Package for Estimating Semiparametric Shared Frailty Models</a>, we implemented a general estimation method for semi-parametric frailty models. It&rsquo;s the only package (to my knowledge) that estimates gamma, positive stable, inverse Gaussian and a number of other distributions for the random effect, for semi-parametric shared frailty models. The original motivation was to have an R package that does things in a consistent way and is well documented, and many other ideas transformed it into what it is. For example, you can get a predicted survival curve with the frailty integrated out for an individual with time-dependent covariates.</li>
-</ul>
-
-<p>We are also working on a number of other projects that will make it into this list as they get closer to completion.</p>
-
     </div>
 
   </div>
@@ -251,10 +208,10 @@ $$</p>
   <nav>
   <ul class="pager">
     
-
+    <li class="previous"><a href="https://teddybalan.github.io/project/advances-frailty/"><span
+      aria-hidden="true">&larr;</span> PhD thesis: Advances in frailty models</a></li>
     
-    <li class="next"><a href="https://teddybalan.github.io/project/msc-thesis/">MSc thesis <span
-      aria-hidden="true">&rarr;</span></a></li>
+
     
   </ul>
 </nav>
@@ -305,13 +262,6 @@ $$</p>
       <script>hljs.initHighlightingOnLoad();</script>
     
 
-    
-    
-    <script type="text/x-mathjax-config">
-        MathJax.Hub.Config({ tex2jax: { inlineMath: [['$','$'], ['\\(','\\)']] } });
-    </script>
-    
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS_CHTML" integrity="sha512-tOav5w1OjvsSJzePRtt2uQPFwBoHt1VZcUq8l8nm5284LEKE9FSJBQryzMBzHxY5P0zRdNqEcpLIRVYFNgu1jw==" crossorigin="anonymous"></script>
     
     
 
