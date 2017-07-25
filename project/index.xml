@@ -61,7 +61,15 @@ $$&lt;/p&gt;
 
 &lt;h3 id=&#34;what-is-the-purpose-of-my-phd&#34;&gt;What is the purpose of my PhD?&lt;/h3&gt;
 
-&lt;p&gt;The aim of my PhD is to study how these things relate in the real world. I work with prof. Hein Putter to develop tools and solutions for several&lt;/p&gt;
+&lt;p&gt;The aim of my PhD is to study how these things relate in the real world.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;In &lt;a href=&#34;http://onlinelibrary.wiley.com/doi/10.1002/sim.6913/full&#34; target=&#34;_blank&#34;&gt;Score test for association between recurrent events and a terminal event&lt;/a&gt;, we developed, well&amp;hellip; a score test to see whether a recurrent event process and a terminal event process are associated or not. The same idea can be used to test for dependent censoring of a recurrent event process. This is partially implemented in the &lt;code&gt;frailtyEM&lt;/code&gt; package.&lt;/li&gt;
+&lt;li&gt;In &lt;a href=&#34;http://onlinelibrary.wiley.com/doi/10.1002/sim.6968/full&#34; target=&#34;_blank&#34;&gt;Ascertainment correction in frailty models for recurrent events data&lt;/a&gt;, we looked at what happens when you select individual histories of recurrent events based on a number of events having happened in a certain calendar time period. We propose a fix for that and an iterative estimation method.&lt;/li&gt;
+&lt;li&gt;In the &lt;a href=&#34;https://CRAN.R-project.org/package=frailtyEM&#34; target=&#34;_blank&#34;&gt;frailtyEM: An R Package for Estimating Semiparametric Shared Frailty Models&lt;/a&gt;, we implemented a general estimation method for semi-parametric frailty models. It&amp;rsquo;s the only package (to my knowledge) that estimates gamma, positive stable, inverse Gaussian and a number of other distributions for the random effect, for semi-parametric shared frailty models. The original motivation was to have an R package that does things in a consistent way and is well documented, and many other ideas transformed it into what it is. For example, you can get a predicted survival curve with the frailty integrated out for an individual with time-dependent covariates.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We are also working on a number of other projects that will make it into this list as they get closer to completion.&lt;/p&gt;
 </description>
     </item>
     
