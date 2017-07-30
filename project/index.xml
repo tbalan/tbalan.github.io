@@ -7,31 +7,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Theodor Adrian Balan</copyright>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jul 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/project/" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>MSc Statistical Science alumni video</title>
-      <link>https://teddybalan.github.io/project/master-video/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://teddybalan.github.io/project/master-video/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MSc thesis</title>
-      <link>https://teddybalan.github.io/project/msc-thesis/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://teddybalan.github.io/project/msc-thesis/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>PhD thesis: Advances in frailty models</title>
       <link>https://teddybalan.github.io/project/advances-frailty/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 27 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>https://teddybalan.github.io/project/advances-frailty/</guid>
       <description>
@@ -80,6 +62,24 @@ $$&lt;/p&gt;
 
 &lt;p&gt;We are also working on a number of other projects that will make it into this list as they get closer to completion.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>MSc Statistical Science alumni video</title>
+      <link>https://teddybalan.github.io/project/master-video/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://teddybalan.github.io/project/master-video/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MSc thesis</title>
+      <link>https://teddybalan.github.io/project/msc-thesis/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://teddybalan.github.io/project/msc-thesis/</guid>
+      <description></description>
     </item>
     
   </channel>
