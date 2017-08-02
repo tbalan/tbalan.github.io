@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Theodor Adrian Balan on Theodor Adrian Balan</title>
-    <link>https://teddybalan.github.io/</link>
+    <link>https://tbalan.com/</link>
     <description>Recent content in Theodor Adrian Balan on Theodor Adrian Balan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -11,11 +11,25 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>frailtyEM</title>
+      <link>https://tbalan.com/project/frailtyem/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://tbalan.com/project/frailtyem/</guid>
+      <description>&lt;p&gt;&lt;code&gt;frailtyEM&lt;/code&gt; is an &lt;code&gt;R&lt;/code&gt; package that may be used for fitting shared frailty models. For a Breslow-type non-parametric baseline hazard, several frailty distributions are supported: gamma, inverse Gaussian, positive stable, PVF-family. Both clustered failures and recurrent events are supported, and prediction curves are easily obtained.&lt;/p&gt;
+
+&lt;p&gt;The stable version is on &lt;a href=&#34;https://CRAN.R-project.org/package=frailtyEM&#34; target=&#34;_blank&#34;&gt;CRAN&lt;/a&gt; and development version on &lt;a href=&#34;https://github.com/teddybalan/frailtyEM&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;. For a more detailed presentation of models and methods, as well as an overview of the implemented estimation approach, I wrote a comprehensive &lt;a href=&#34;https://cran.r-project.org/web/packages/frailtyEM/vignettes/frailtyEM_manual.pdf&#34; target=&#34;_blank&#34;&gt;vignette&lt;/a&gt; for the package.&lt;/p&gt;
+
+&lt;p&gt;The package is still under development, so any feedback is more than welcome.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>PhD thesis: Advances in frailty models</title>
-      <link>https://teddybalan.github.io/project/advances-frailty/</link>
+      <link>https://tbalan.com/project/advances-frailty/</link>
       <pubDate>Thu, 27 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://teddybalan.github.io/project/advances-frailty/</guid>
+      <guid>https://tbalan.com/project/advances-frailty/</guid>
       <description>
 
 &lt;h3 id=&#34;what-are-frailty-models&#34;&gt;What are frailty models?&lt;/h3&gt;
@@ -66,19 +80,19 @@ $$&lt;/p&gt;
     
     <item>
       <title>From scripts to packages: how to be disciplined about your R code</title>
-      <link>https://teddybalan.github.io/talk/r_discipline/</link>
+      <link>https://tbalan.com/talk/r_discipline/</link>
       <pubDate>Thu, 13 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://teddybalan.github.io/talk/r_discipline/</guid>
+      <guid>https://tbalan.com/talk/r_discipline/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Non-proportional hazards or unobserved heterogeneity in clustered survival data: Can we tell the difference?</title>
-      <link>https://teddybalan.github.io/talk/smallclusters/</link>
+      <link>https://tbalan.com/talk/smallclusters/</link>
       <pubDate>Tue, 11 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://teddybalan.github.io/talk/smallclusters/</guid>
+      <guid>https://tbalan.com/talk/smallclusters/</guid>
       <description>&lt;p&gt;I gave talks on this subject at the following events:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -90,20 +104,20 @@ $$&lt;/p&gt;
     
     <item>
       <title>Ascertainment correction in frailty models for recurrent events data</title>
-      <link>https://teddybalan.github.io/publication/ascertainment/</link>
+      <link>https://tbalan.com/publication/ascertainment/</link>
       <pubDate>Thu, 15 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://teddybalan.github.io/publication/ascertainment/</guid>
+      <guid>https://tbalan.com/publication/ascertainment/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Dynamic frailty models for recurrent events data</title>
-      <link>https://teddybalan.github.io/talk/pta2016/</link>
+      <link>https://tbalan.com/talk/pta2016/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://teddybalan.github.io/talk/pta2016/</guid>
+      <guid>https://tbalan.com/talk/pta2016/</guid>
       <description>&lt;p&gt;I gave talks on this subject at the following events:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -116,38 +130,38 @@ $$&lt;/p&gt;
     
     <item>
       <title>Score test for association between recurrent events and a terminal event</title>
-      <link>https://teddybalan.github.io/publication/score_test/</link>
+      <link>https://tbalan.com/publication/score_test/</link>
       <pubDate>Mon, 15 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://teddybalan.github.io/publication/score_test/</guid>
+      <guid>https://tbalan.com/publication/score_test/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>MSc Statistical Science alumni video</title>
-      <link>https://teddybalan.github.io/project/master-video/</link>
+      <link>https://tbalan.com/project/master-video/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://teddybalan.github.io/project/master-video/</guid>
+      <guid>https://tbalan.com/project/master-video/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MSc thesis</title>
-      <link>https://teddybalan.github.io/project/msc-thesis/</link>
+      <link>https://tbalan.com/project/msc-thesis/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://teddybalan.github.io/project/msc-thesis/</guid>
+      <guid>https://tbalan.com/project/msc-thesis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hello R Markdown</title>
-      <link>https://teddybalan.github.io/post/2015-07-23-r-rmarkdown/</link>
+      <link>https://tbalan.com/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://teddybalan.github.io/post/2015-07-23-r-rmarkdown/</guid>
+      <guid>https://tbalan.com/post/2015-07-23-r-rmarkdown/</guid>
       <description>&lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;R Markdown&lt;/h1&gt;
 &lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; class=&#34;uri&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
@@ -181,7 +195,7 @@ pie(
   init.angle = -50, border = NA
 )&lt;/code&gt;&lt;/pre&gt;
 &lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;https://teddybalan.github.io/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+&lt;img src=&#34;https://tbalan.com/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 Figure 1: A fancy pie chart.
 &lt;/p&gt;
