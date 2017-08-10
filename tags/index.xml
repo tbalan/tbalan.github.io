@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Theodor Adrian Balan</title>
-    <link>https://tbalan.com/tags/</link>
+    <link>https://teddybalan.github.io/tags/</link>
     <description>Recent content in Tags on Theodor Adrian Balan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,56 +12,56 @@
     
     <item>
       <title>Content tagged as &#39;Academic&#39;</title>
-      <link>https://tbalan.com/tags/academic/</link>
+      <link>https://teddybalan.github.io/tags/academic/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://tbalan.com/tags/academic/</guid>
+      <guid>https://teddybalan.github.io/tags/academic/</guid>
       <description>&lt;p&gt;Here is a list of all the content that has been tagged as &lt;em&gt;academic&lt;/em&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Phd</title>
-      <link>https://tbalan.com/tags/phd/</link>
+      <link>https://teddybalan.github.io/tags/phd/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://tbalan.com/tags/phd/</guid>
+      <guid>https://teddybalan.github.io/tags/phd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Plot</title>
-      <link>https://tbalan.com/tags/plot/</link>
+      <link>https://teddybalan.github.io/tags/plot/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://tbalan.com/tags/plot/</guid>
+      <guid>https://teddybalan.github.io/tags/plot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Markdown</title>
-      <link>https://tbalan.com/tags/r-markdown/</link>
+      <link>https://teddybalan.github.io/tags/r-markdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://tbalan.com/tags/r-markdown/</guid>
+      <guid>https://teddybalan.github.io/tags/r-markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Regression</title>
-      <link>https://tbalan.com/tags/regression/</link>
+      <link>https://teddybalan.github.io/tags/regression/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://tbalan.com/tags/regression/</guid>
+      <guid>https://teddybalan.github.io/tags/regression/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Survival Analysis</title>
-      <link>https://tbalan.com/tags/survival-analysis/</link>
+      <link>https://teddybalan.github.io/tags/survival-analysis/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://tbalan.com/tags/survival-analysis/</guid>
+      <guid>https://teddybalan.github.io/tags/survival-analysis/</guid>
       <description></description>
     </item>
     

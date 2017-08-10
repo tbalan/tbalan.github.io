@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Talks &amp; Posters on Theodor Adrian Balan</title>
-    <link>https://tbalan.com/talk/</link>
+    <link>https://teddybalan.github.io/talk/</link>
     <description>Recent content in Talks &amp; Posters on Theodor Adrian Balan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,19 +12,19 @@
     
     <item>
       <title>From scripts to packages: how to be disciplined about your R code</title>
-      <link>https://tbalan.com/talk/r_discipline/</link>
+      <link>https://teddybalan.github.io/talk/r_discipline/</link>
       <pubDate>Thu, 13 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://tbalan.com/talk/r_discipline/</guid>
+      <guid>https://teddybalan.github.io/talk/r_discipline/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Non-proportional hazards or unobserved heterogeneity in clustered survival data: Can we tell the difference?</title>
-      <link>https://tbalan.com/talk/smallclusters/</link>
+      <link>https://teddybalan.github.io/talk/smallclusters/</link>
       <pubDate>Tue, 11 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://tbalan.com/talk/smallclusters/</guid>
+      <guid>https://teddybalan.github.io/talk/smallclusters/</guid>
       <description>&lt;p&gt;I gave talks on this subject at the following events:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -36,10 +36,10 @@
     
     <item>
       <title>Dynamic frailty models for recurrent events data</title>
-      <link>https://tbalan.com/talk/pta2016/</link>
+      <link>https://teddybalan.github.io/talk/pta2016/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://tbalan.com/talk/pta2016/</guid>
+      <guid>https://teddybalan.github.io/talk/pta2016/</guid>
       <description>&lt;p&gt;I gave talks on this subject at the following events:&lt;/p&gt;
 
 &lt;ul&gt;

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Theodor Adrian Balan</title>
-    <link>https://tbalan.com/publication/</link>
+    <link>https://teddybalan.github.io/publication/</link>
     <description>Recent content in Publications on Theodor Adrian Balan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,20 +12,20 @@
     
     <item>
       <title>Ascertainment correction in frailty models for recurrent events data</title>
-      <link>https://tbalan.com/publication/ascertainment/</link>
+      <link>https://teddybalan.github.io/publication/ascertainment/</link>
       <pubDate>Thu, 15 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://tbalan.com/publication/ascertainment/</guid>
+      <guid>https://teddybalan.github.io/publication/ascertainment/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Score test for association between recurrent events and a terminal event</title>
-      <link>https://tbalan.com/publication/score_test/</link>
+      <link>https://teddybalan.github.io/publication/score_test/</link>
       <pubDate>Mon, 15 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://tbalan.com/publication/score_test/</guid>
+      <guid>https://teddybalan.github.io/publication/score_test/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
