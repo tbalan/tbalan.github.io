@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Survival Analysis on Theodor Adrian Balan</title>
-    <link>https://teddybalan.github.io/tags/survival-analysis/</link>
+    <link>https://tbalan.github.io/tags/survival-analysis/</link>
     <description>Recent content in Survival Analysis on Theodor Adrian Balan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>frailtyEM</title>
-      <link>https://teddybalan.github.io/project/frailtyem/</link>
+      <link>https://tbalan.github.io/project/frailtyem/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://teddybalan.github.io/project/frailtyem/</guid>
+      <guid>https://tbalan.github.io/project/frailtyem/</guid>
       <description>&lt;p&gt;&lt;code&gt;frailtyEM&lt;/code&gt; is an &lt;code&gt;R&lt;/code&gt; package that may be used for fitting shared frailty models. For a Breslow-type non-parametric baseline hazard, several frailty distributions are supported: gamma, inverse Gaussian, positive stable, PVF-family. Both clustered failures and recurrent events are supported, and prediction curves are easily obtained.&lt;/p&gt;
 
 &lt;p&gt;The stable version is on &lt;a href=&#34;https://CRAN.R-project.org/package=frailtyEM&#34; target=&#34;_blank&#34;&gt;CRAN&lt;/a&gt; and development version on &lt;a href=&#34;https://github.com/tbalan/frailtyEM&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;. For a more detailed presentation of models and methods, as well as an overview of the implemented estimation approach, I wrote a comprehensive &lt;a href=&#34;https://cran.r-project.org/web/packages/frailtyEM/vignettes/frailtyEM_manual.pdf&#34; target=&#34;_blank&#34;&gt;vignette&lt;/a&gt; for the package.&lt;/p&gt;
@@ -26,10 +26,10 @@
     
     <item>
       <title>PhD thesis: Advances in frailty models</title>
-      <link>https://teddybalan.github.io/project/advances-frailty/</link>
+      <link>https://tbalan.github.io/project/advances-frailty/</link>
       <pubDate>Thu, 27 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://teddybalan.github.io/project/advances-frailty/</guid>
+      <guid>https://tbalan.github.io/project/advances-frailty/</guid>
       <description>
 
 &lt;h3 id=&#34;what-are-frailty-models&#34;&gt;What are frailty models?&lt;/h3&gt;
@@ -80,19 +80,19 @@ $$&lt;/p&gt;
     
     <item>
       <title>MSc Statistical Science alumni video</title>
-      <link>https://teddybalan.github.io/project/master-video/</link>
+      <link>https://tbalan.github.io/project/master-video/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://teddybalan.github.io/project/master-video/</guid>
+      <guid>https://tbalan.github.io/project/master-video/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MSc thesis</title>
-      <link>https://teddybalan.github.io/project/msc-thesis/</link>
+      <link>https://tbalan.github.io/project/msc-thesis/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://teddybalan.github.io/project/msc-thesis/</guid>
+      <guid>https://tbalan.github.io/project/msc-thesis/</guid>
       <description></description>
     </item>
     
