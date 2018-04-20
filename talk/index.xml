@@ -8,7 +8,9 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Theodor Adrian Balan</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/talk/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://tbalan.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>From scripts to packages: how to be disciplined about your R code</title>
@@ -25,13 +27,8 @@
       <pubDate>Tue, 11 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>https://tbalan.github.io/talk/smallclusters/</guid>
-      <description>&lt;p&gt;I gave talks on this subject at the following events:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;IBS Channel Network Conference 2017&lt;/em&gt;, 24-26 April 2017, Hasselt, Belgium&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;9th EMR-IBS and Italian Region Conference&lt;/em&gt;, 8-12 May 2017, Thessaloniki, Greece&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>I gave talks on this subject at the following events:
+ IBS Channel Network Conference 2017, 24-26 April 2017, Hasselt, Belgium 9th EMR-IBS and Italian Region Conference, 8-12 May 2017, Thessaloniki, Greece  </description>
     </item>
     
     <item>
@@ -40,14 +37,8 @@
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
       
       <guid>https://tbalan.github.io/talk/pta2016/</guid>
-      <description>&lt;p&gt;I gave talks on this subject at the following events:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Avoiding Bias induced by Design and Analysis in Life History Cohort Studies&lt;/em&gt;, 21-23 September, Freiburg, Germany&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Population-based Time-to-event Analyses&lt;/em&gt;, 31 August – 2 September, London, UK&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;28th International Biometric Conference&lt;/em&gt;, 10-15 July, Victoria, Canada&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>I gave talks on this subject at the following events:
+ Avoiding Bias induced by Design and Analysis in Life History Cohort Studies, 21-23 September, Freiburg, Germany Population-based Time-to-event Analyses, 31 August – 2 September, London, UK 28th International Biometric Conference, 10-15 July, Victoria, Canada  </description>
     </item>
     
   </channel>

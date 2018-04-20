@@ -8,7 +8,9 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Theodor Adrian Balan</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://tbalan.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Ascertainment correction in frailty models for recurrent events data</title>
@@ -16,8 +18,7 @@
       <pubDate>Thu, 15 Sep 2016 00:00:00 +0000</pubDate>
       
       <guid>https://tbalan.github.io/publication/ascertainment/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     
     <item>
@@ -26,8 +27,7 @@
       <pubDate>Mon, 15 Aug 2016 00:00:00 +0000</pubDate>
       
       <guid>https://tbalan.github.io/publication/score_test/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     
   </channel>

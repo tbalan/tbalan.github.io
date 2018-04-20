@@ -7,93 +7,47 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Theodor Adrian Balan</copyright>
-    <lastBuildDate>Tue, 01 Aug 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/survival-analysis/" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Jul 2017 00:00:00 +0000</lastBuildDate>
     
-    <item>
-      <title>frailtyEM</title>
-      <link>https://tbalan.github.io/project/frailtyem/</link>
-      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://tbalan.github.io/project/frailtyem/</guid>
-      <description>&lt;p&gt;&lt;code&gt;frailtyEM&lt;/code&gt; is an &lt;code&gt;R&lt;/code&gt; package that may be used for fitting shared frailty models. For a Breslow-type non-parametric baseline hazard, several frailty distributions are supported: gamma, inverse Gaussian, positive stable, PVF-family. Both clustered failures and recurrent events are supported, and prediction curves are easily obtained.&lt;/p&gt;
-
-&lt;p&gt;The stable version is on &lt;a href=&#34;https://CRAN.R-project.org/package=frailtyEM&#34; target=&#34;_blank&#34;&gt;CRAN&lt;/a&gt; and development version on &lt;a href=&#34;https://github.com/tbalan/frailtyEM&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;. For a more detailed presentation of models and methods, as well as an overview of the implemented estimation approach, I wrote a comprehensive &lt;a href=&#34;https://cran.r-project.org/web/packages/frailtyEM/vignettes/frailtyEM_manual.pdf&#34; target=&#34;_blank&#34;&gt;vignette&lt;/a&gt; for the package.&lt;/p&gt;
-
-&lt;p&gt;The package is still under development, so any feedback is more than welcome.&lt;/p&gt;
-</description>
-    </item>
+	<atom:link href="https://tbalan.github.io/tags/survival-analysis/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>PhD thesis: Advances in frailty models</title>
-      <link>https://tbalan.github.io/project/advances-frailty/</link>
+      <link>https://tbalan.github.io/stuff/phd/</link>
       <pubDate>Thu, 27 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://tbalan.github.io/project/advances-frailty/</guid>
-      <description>
-
-&lt;h3 id=&#34;what-are-frailty-models&#34;&gt;What are frailty models?&lt;/h3&gt;
-
-&lt;p&gt;Imagine we have a device that ticks every now and then, and denote the number of ticks up to time $t$ as
-$N(t)$. Broadly speaking, the goal of survival analysis is to determine the &lt;em&gt;intensity&lt;/em&gt; of this process,
-so as to answer how likely it is that, after observing this device for a while, we would expect another
-tick to happen in the next period of time.&lt;/p&gt;
-
-&lt;p&gt;This quantity is usually modeled like:
-$$
-h(t) = h_0(t) \exp(\beta^\top \mathbf{x}(t))
-$$
-where $h_0(t)$ is a &lt;em&gt;baseline&lt;/em&gt; intensity and $\mathbf{x}(t)$ represents a number of possibly time dependent factors,
-or knowledge that we have about $N(t)$, that we believe it might influence the intensity. This is called a
-&lt;em&gt;proportional intensity&lt;/em&gt; model and has been developed from the 70s.
-The term &lt;em&gt;survival analysis&lt;/em&gt; comes from the situation where $N$ can only click once, usually representing death.&lt;/p&gt;
-
-&lt;p&gt;Frailty models come in for two big reasons:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;usually we do not know &lt;em&gt;all&lt;/em&gt; the factors that may influence $h(t)$.&lt;/li&gt;
-&lt;li&gt;when several devices are related in a way that is difficult to quantify (thinking similar unmeasured genetic build or similar environmental conditions that can&amp;rsquo;t be measured), we know that the tickers are related, and this information must be incorporated somehow&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;So in essence we claim that there is an unobservable variable $Z$ that affects $h(t)$. If we had observed $Z$ (which we don&amp;rsquo;t), then the intensity of $N(t)$ would be
-$$
-h(t) = Z h_0(t) \exp(\beta^\top \mathbf{x}(t)).
-$$&lt;/p&gt;
-
-&lt;p&gt;We can work out that this is essentially a linear random intercept mixed model for the log-intensity. It turns out that, compared to regular linear mixed models, this leads to a large number of surprising results, while the estimation is in general challenging.&lt;/p&gt;
-
-&lt;p&gt;This type of models is still controversial to some extent, as they do involve a healthy dose of speculation. However, often, we are interested in the &lt;em&gt;conditional&lt;/em&gt; treatment effect rather than the &lt;em&gt;marginal&lt;/em&gt;, that is, the effect on the individual and not that on the population.&lt;/p&gt;
-
-&lt;h3 id=&#34;what-is-the-purpose-of-my-phd&#34;&gt;What is the purpose of my PhD?&lt;/h3&gt;
-
-&lt;p&gt;The aim of my PhD is to study how these things relate in the real world.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;In &lt;a href=&#34;http://onlinelibrary.wiley.com/doi/10.1002/sim.6913/full&#34; target=&#34;_blank&#34;&gt;Score test for association between recurrent events and a terminal event&lt;/a&gt;, we developed, well&amp;hellip; a score test to see whether a recurrent event process and a terminal event process are associated or not. The same idea can be used to test for dependent censoring of a recurrent event process. This is partially implemented in the &lt;code&gt;frailtyEM&lt;/code&gt; package.&lt;/li&gt;
-&lt;li&gt;In &lt;a href=&#34;http://onlinelibrary.wiley.com/doi/10.1002/sim.6968/full&#34; target=&#34;_blank&#34;&gt;Ascertainment correction in frailty models for recurrent events data&lt;/a&gt;, we looked at what happens when you select individual histories of recurrent events based on a number of events having happened in a certain calendar time period. We propose a fix for that and an iterative estimation method.&lt;/li&gt;
-&lt;li&gt;In the &lt;a href=&#34;https://CRAN.R-project.org/package=frailtyEM&#34; target=&#34;_blank&#34;&gt;frailtyEM: An R Package for Estimating Semiparametric Shared Frailty Models&lt;/a&gt;, we implemented a general estimation method for semi-parametric frailty models. It&amp;rsquo;s the only package (to my knowledge) that estimates gamma, positive stable, inverse Gaussian and a number of other distributions for the random effect, for semi-parametric shared frailty models. The original motivation was to have an R package that does things in a consistent way and is well documented, and many other ideas transformed it into what it is. For example, you can get a predicted survival curve with the frailty integrated out for an individual with time-dependent covariates.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;We are also working on a number of other projects that will make it into this list as they get closer to completion.&lt;/p&gt;
-</description>
+      <guid>https://tbalan.github.io/stuff/phd/</guid>
+      <description>What are frailty models? Imagine we have a device that ticks every now and then, and denote the number of ticks up to time $t$ as $N(t)$. Broadly speaking, the goal of survival analysis is to determine the intensity of this process, so as to answer how likely it is that, after observing this device for a while, we would expect another tick to happen in the next period of time.</description>
     </item>
     
     <item>
       <title>MSc Statistical Science alumni video</title>
-      <link>https://tbalan.github.io/project/master-video/</link>
+      <link>https://tbalan.github.io/stuff/master-video/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://tbalan.github.io/project/master-video/</guid>
+      <guid>https://tbalan.github.io/stuff/master-video/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MSc thesis</title>
-      <link>https://tbalan.github.io/project/msc-thesis/</link>
+      <link>https://tbalan.github.io/stuff/msc-thesis/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://tbalan.github.io/project/msc-thesis/</guid>
+      <guid>https://tbalan.github.io/stuff/msc-thesis/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>frailtyEM (R package)</title>
+      <link>https://tbalan.github.io/stuff/frailtyem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tbalan.github.io/stuff/frailtyem/</guid>
+      <description>frailtyEM is an R package that may be used for fitting shared frailty models. Main features:
+ Breslow-type non-parametric baseline hazard frailty distributions: gamma, inverse Gaussian, positive stable, PVF-family. type of data: clustered failures recurrent events (gap time + calendar time) prediction survival and cumulative incidence curves with confidence bands with ggplot2 and base graphs  Upcoming features:
+ fast calculation of the cross ratio function speed improvements fully parametric baseline hazard and flexible parametric baseline hazards  Links:</description>
     </item>
     
   </channel>

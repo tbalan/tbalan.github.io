@@ -1,81 +1,89 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Theodor Adrian Balan on Theodor Adrian Balan</title>
+    <title>Theodor Adrian Balan</title>
     <link>https://tbalan.github.io/</link>
-    <description>Recent content in Theodor Adrian Balan on Theodor Adrian Balan</description>
+    <description>Recent content on Theodor Adrian Balan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Theodor Adrian Balan</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://tbalan.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
-      <title>frailtyEM</title>
-      <link>https://tbalan.github.io/project/frailtyem/</link>
-      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <title></title>
+      <link>https://tbalan.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://tbalan.github.io/project/frailtyem/</guid>
-      <description>&lt;p&gt;&lt;code&gt;frailtyEM&lt;/code&gt; is an &lt;code&gt;R&lt;/code&gt; package that may be used for fitting shared frailty models. For a Breslow-type non-parametric baseline hazard, several frailty distributions are supported: gamma, inverse Gaussian, positive stable, PVF-family. Both clustered failures and recurrent events are supported, and prediction curves are easily obtained.&lt;/p&gt;
-
-&lt;p&gt;The stable version is on &lt;a href=&#34;https://CRAN.R-project.org/package=frailtyEM&#34; target=&#34;_blank&#34;&gt;CRAN&lt;/a&gt; and development version on &lt;a href=&#34;https://github.com/tbalan/frailtyEM&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;. For a more detailed presentation of models and methods, as well as an overview of the implemented estimation approach, I wrote a comprehensive &lt;a href=&#34;https://cran.r-project.org/web/packages/frailtyEM/vignettes/frailtyEM_manual.pdf&#34; target=&#34;_blank&#34;&gt;vignette&lt;/a&gt; for the package.&lt;/p&gt;
-
-&lt;p&gt;The package is still under development, so any feedback is more than welcome.&lt;/p&gt;
-</description>
+      <guid>https://tbalan.github.io/home/about/</guid>
+      <description>Biography I am a PhD student in the department of Medical Statistics and Bioinformatics at Leiden University Medical Center. My work is centered around complex time-to-event data, mostly in the field of random effect (frailty models) in survival analysis. In my spare time, I like to put my skills to use for good causes. I am the co-author and maintainer of the R packages frailtyEM and dynfrail.</description>
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>https://tbalan.github.io/home/software/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://tbalan.github.io/home/software/</guid>
+      <description>frailtyEM is an R package that may be used for fitting shared frailty models. For a Breslow-type non-parametric baseline hazard, several frailty distributions are supported: gamma, inverse Gaussian, positive stable, PVF-family. Both clustered failures and recurrent events are supported, and prediction curves are easily obtained.
+The stable version is on CRAN and development version on GitHub. For a more detailed presentation of models and methods, as well as an overview of the implemented estimation approach, I wrote a comprehensive vignette for the package.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://tbalan.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://tbalan.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talks &amp; posters</title>
+      <link>https://tbalan.github.io/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://tbalan.github.io/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://tbalan.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://tbalan.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://tbalan.github.io/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://tbalan.github.io/home/teaching/</guid>
+      <description>On 5 November 2017, Hein Putter and I will give a day-course on Frailty models: theory and practice for the The Czech National Group of the International Society for Clinical Biostatistics. More information about registration is available on the course website.
+At the XXIXth International Biometrical Conference (Barcelona, 2018), Hein Putter and I will give the half-day short course Frailty models: theory and practice. This will be part of the Statistics in Practice session.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://tbalan.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://tbalan.github.io/home/contact/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>PhD thesis: Advances in frailty models</title>
-      <link>https://tbalan.github.io/project/advances-frailty/</link>
+      <link>https://tbalan.github.io/stuff/phd/</link>
       <pubDate>Thu, 27 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://tbalan.github.io/project/advances-frailty/</guid>
-      <description>
-
-&lt;h3 id=&#34;what-are-frailty-models&#34;&gt;What are frailty models?&lt;/h3&gt;
-
-&lt;p&gt;Imagine we have a device that ticks every now and then, and denote the number of ticks up to time $t$ as
-$N(t)$. Broadly speaking, the goal of survival analysis is to determine the &lt;em&gt;intensity&lt;/em&gt; of this process,
-so as to answer how likely it is that, after observing this device for a while, we would expect another
-tick to happen in the next period of time.&lt;/p&gt;
-
-&lt;p&gt;This quantity is usually modeled like:
-$$
-h(t) = h_0(t) \exp(\beta^\top \mathbf{x}(t))
-$$
-where $h_0(t)$ is a &lt;em&gt;baseline&lt;/em&gt; intensity and $\mathbf{x}(t)$ represents a number of possibly time dependent factors,
-or knowledge that we have about $N(t)$, that we believe it might influence the intensity. This is called a
-&lt;em&gt;proportional intensity&lt;/em&gt; model and has been developed from the 70s.
-The term &lt;em&gt;survival analysis&lt;/em&gt; comes from the situation where $N$ can only click once, usually representing death.&lt;/p&gt;
-
-&lt;p&gt;Frailty models come in for two big reasons:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;usually we do not know &lt;em&gt;all&lt;/em&gt; the factors that may influence $h(t)$.&lt;/li&gt;
-&lt;li&gt;when several devices are related in a way that is difficult to quantify (thinking similar unmeasured genetic build or similar environmental conditions that can&amp;rsquo;t be measured), we know that the tickers are related, and this information must be incorporated somehow&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;So in essence we claim that there is an unobservable variable $Z$ that affects $h(t)$. If we had observed $Z$ (which we don&amp;rsquo;t), then the intensity of $N(t)$ would be
-$$
-h(t) = Z h_0(t) \exp(\beta^\top \mathbf{x}(t)).
-$$&lt;/p&gt;
-
-&lt;p&gt;We can work out that this is essentially a linear random intercept mixed model for the log-intensity. It turns out that, compared to regular linear mixed models, this leads to a large number of surprising results, while the estimation is in general challenging.&lt;/p&gt;
-
-&lt;p&gt;This type of models is still controversial to some extent, as they do involve a healthy dose of speculation. However, often, we are interested in the &lt;em&gt;conditional&lt;/em&gt; treatment effect rather than the &lt;em&gt;marginal&lt;/em&gt;, that is, the effect on the individual and not that on the population.&lt;/p&gt;
-
-&lt;h3 id=&#34;what-is-the-purpose-of-my-phd&#34;&gt;What is the purpose of my PhD?&lt;/h3&gt;
-
-&lt;p&gt;The aim of my PhD is to study how these things relate in the real world.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;In &lt;a href=&#34;http://onlinelibrary.wiley.com/doi/10.1002/sim.6913/full&#34; target=&#34;_blank&#34;&gt;Score test for association between recurrent events and a terminal event&lt;/a&gt;, we developed, well&amp;hellip; a score test to see whether a recurrent event process and a terminal event process are associated or not. The same idea can be used to test for dependent censoring of a recurrent event process. This is partially implemented in the &lt;code&gt;frailtyEM&lt;/code&gt; package.&lt;/li&gt;
-&lt;li&gt;In &lt;a href=&#34;http://onlinelibrary.wiley.com/doi/10.1002/sim.6968/full&#34; target=&#34;_blank&#34;&gt;Ascertainment correction in frailty models for recurrent events data&lt;/a&gt;, we looked at what happens when you select individual histories of recurrent events based on a number of events having happened in a certain calendar time period. We propose a fix for that and an iterative estimation method.&lt;/li&gt;
-&lt;li&gt;In the &lt;a href=&#34;https://CRAN.R-project.org/package=frailtyEM&#34; target=&#34;_blank&#34;&gt;frailtyEM: An R Package for Estimating Semiparametric Shared Frailty Models&lt;/a&gt;, we implemented a general estimation method for semi-parametric frailty models. It&amp;rsquo;s the only package (to my knowledge) that estimates gamma, positive stable, inverse Gaussian and a number of other distributions for the random effect, for semi-parametric shared frailty models. The original motivation was to have an R package that does things in a consistent way and is well documented, and many other ideas transformed it into what it is. For example, you can get a predicted survival curve with the frailty integrated out for an individual with time-dependent covariates.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;We are also working on a number of other projects that will make it into this list as they get closer to completion.&lt;/p&gt;
-</description>
+      <guid>https://tbalan.github.io/stuff/phd/</guid>
+      <description>What are frailty models? Imagine we have a device that ticks every now and then, and denote the number of ticks up to time $t$ as $N(t)$. Broadly speaking, the goal of survival analysis is to determine the intensity of this process, so as to answer how likely it is that, after observing this device for a while, we would expect another tick to happen in the next period of time.</description>
     </item>
     
     <item>
@@ -93,13 +101,8 @@ $$&lt;/p&gt;
       <pubDate>Tue, 11 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>https://tbalan.github.io/talk/smallclusters/</guid>
-      <description>&lt;p&gt;I gave talks on this subject at the following events:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;IBS Channel Network Conference 2017&lt;/em&gt;, 24-26 April 2017, Hasselt, Belgium&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;9th EMR-IBS and Italian Region Conference&lt;/em&gt;, 8-12 May 2017, Thessaloniki, Greece&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>I gave talks on this subject at the following events:
+ IBS Channel Network Conference 2017, 24-26 April 2017, Hasselt, Belgium 9th EMR-IBS and Italian Region Conference, 8-12 May 2017, Thessaloniki, Greece  </description>
     </item>
     
     <item>
@@ -108,8 +111,7 @@ $$&lt;/p&gt;
       <pubDate>Thu, 15 Sep 2016 00:00:00 +0000</pubDate>
       
       <guid>https://tbalan.github.io/publication/ascertainment/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     
     <item>
@@ -118,14 +120,8 @@ $$&lt;/p&gt;
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
       
       <guid>https://tbalan.github.io/talk/pta2016/</guid>
-      <description>&lt;p&gt;I gave talks on this subject at the following events:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Avoiding Bias induced by Design and Analysis in Life History Cohort Studies&lt;/em&gt;, 21-23 September, Freiburg, Germany&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Population-based Time-to-event Analyses&lt;/em&gt;, 31 August – 2 September, London, UK&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;28th International Biometric Conference&lt;/em&gt;, 10-15 July, Victoria, Canada&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>I gave talks on this subject at the following events:
+ Avoiding Bias induced by Design and Analysis in Life History Cohort Studies, 21-23 September, Freiburg, Germany Population-based Time-to-event Analyses, 31 August – 2 September, London, UK 28th International Biometric Conference, 10-15 July, Victoria, Canada  </description>
     </item>
     
     <item>
@@ -134,25 +130,24 @@ $$&lt;/p&gt;
       <pubDate>Mon, 15 Aug 2016 00:00:00 +0000</pubDate>
       
       <guid>https://tbalan.github.io/publication/score_test/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     
     <item>
       <title>MSc Statistical Science alumni video</title>
-      <link>https://tbalan.github.io/project/master-video/</link>
+      <link>https://tbalan.github.io/stuff/master-video/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://tbalan.github.io/project/master-video/</guid>
+      <guid>https://tbalan.github.io/stuff/master-video/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MSc thesis</title>
-      <link>https://tbalan.github.io/project/msc-thesis/</link>
+      <link>https://tbalan.github.io/stuff/msc-thesis/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://tbalan.github.io/project/msc-thesis/</guid>
+      <guid>https://tbalan.github.io/stuff/msc-thesis/</guid>
       <description></description>
     </item>
     
@@ -162,46 +157,70 @@ $$&lt;/p&gt;
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
       <guid>https://tbalan.github.io/post/2015-07-23-r-rmarkdown/</guid>
-      <description>&lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;R Markdown&lt;/h1&gt;
-&lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; class=&#34;uri&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;You can embed an R code chunk like this:&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;summary(cars)
-##      speed           dist       
-##  Min.   : 4.0   Min.   :  2.00  
-##  1st Qu.:12.0   1st Qu.: 26.00  
-##  Median :15.0   Median : 36.00  
-##  Mean   :15.4   Mean   : 42.98  
-##  3rd Qu.:19.0   3rd Qu.: 56.00  
-##  Max.   :25.0   Max.   :120.00
-fit &amp;lt;- lm(dist ~ speed, data = cars)
-fit
-## 
-## Call:
-## lm(formula = dist ~ speed, data = cars)
-## 
-## Coefficients:
-## (Intercept)        speed  
-##     -17.579        3.932&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-&lt;div id=&#34;including-plots&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;Including Plots&lt;/h1&gt;
-&lt;p&gt;You can also embed plots. See Figure &lt;a href=&#34;#fig:pie&#34;&gt;1&lt;/a&gt; for example:&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;par(mar = c(0, 1, 0, 1))
-pie(
-  c(280, 60, 20),
-  c(&amp;#39;Sky&amp;#39;, &amp;#39;Sunny side of pyramid&amp;#39;, &amp;#39;Shady side of pyramid&amp;#39;),
-  col = c(&amp;#39;#0292D8&amp;#39;, &amp;#39;#F7EA39&amp;#39;, &amp;#39;#C4B632&amp;#39;),
-  init.angle = -50, border = NA
-)&lt;/code&gt;&lt;/pre&gt;
-&lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;https://tbalan.github.io/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
-&lt;p class=&#34;caption&#34;&gt;
-Figure 1: A fancy pie chart.
-&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-</description>
+      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:
+summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://tbalan.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tbalan.github.io/about/</guid>
+      <description>Work currently: researcher @Leiden University Medical Center
+[Department of Biomedical Data Sciences] [Survival analysis group]
+Education 2018 - PhD in biostatistics, Leiden University Medical Center
+[PhD project: Advances in frailty models]
+[Doing a PhD after a MSc (video)]
+2013 - MSc cum laude in statistical science, Leiden University
+[Thesis: Joint Modeling of Recurrent and Terminal Events] [Master programme statistical science]
+2011 - BSc in applied mathematics, University of Bucharest</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://tbalan.github.io/presentations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tbalan.github.io/presentations/</guid>
+      <description>talks ISCB 2017, Vigo, Spain
+ From scripts to packages: how to be disciplined about your R code [slides] Non-proportional hazards or unobserved heterogeneity in clustered survival data: can we tell the difference? [slides] also presented at IBS Channel Network Conference 2017, Hasselt, Belgium &amp;amp; 9th EMR-IBS and Italian Region Conference 2017, Thessaloniki, Greece    Population-based Time-to-event Analyses 2016, London, UK
+ Dynamic frailty models for recurrent events data</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://tbalan.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tbalan.github.io/projects/</guid>
+      <description>publications  Non-proportional hazards and unobserved heterogeneity in clustered survival data: When can we tell the difference? (Balan, Putter)
+under review frailtyEM: an R package for estimating semiparametric shared frailty models (Balan, Putter)
+Journal of Statistical Software (2018), accepted for publication
+ Score test for association between recurrent events and a terminal event (Balan, Boonk, Vermeer, Putter)
+Statistics in Medicine (2016), Volume 35, Issue 23, Pages 4183-4201
+ Ascertainment correction in frailty models for recurrent events data (Balan, Jonker, Johannesma, Putter)</description>
+    </item>
+    
+    <item>
+      <title>CV</title>
+      <link>https://tbalan.github.io/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tbalan.github.io/cv/</guid>
+      <description>Yo dis ma CV</description>
+    </item>
+    
+    <item>
+      <title>frailtyEM (R package)</title>
+      <link>https://tbalan.github.io/stuff/frailtyem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tbalan.github.io/stuff/frailtyem/</guid>
+      <description>frailtyEM is an R package that may be used for fitting shared frailty models. Main features:
+ Breslow-type non-parametric baseline hazard frailty distributions: gamma, inverse Gaussian, positive stable, PVF-family. type of data: clustered failures recurrent events (gap time + calendar time) prediction survival and cumulative incidence curves with confidence bands with ggplot2 and base graphs  Upcoming features:
+ fast calculation of the cross ratio function speed improvements fully parametric baseline hazard and flexible parametric baseline hazards  Links:</description>
     </item>
     
   </channel>
