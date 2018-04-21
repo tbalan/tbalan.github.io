@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Theodor Adrian Balan</title>
+    <title>Theodor Balan</title>
     <link>https://tbalan.github.io/</link>
-    <description>Recent content on Theodor Adrian Balan</description>
+    <description>Recent content on Theodor Balan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Theodor Adrian Balan</copyright>
+    <copyright>&amp;copy; 2017 Theodor Balan</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://tbalan.github.io/index.xml" rel="self" type="application/rss+xml" />
