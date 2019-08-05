@@ -168,14 +168,14 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tbalan.github.io/about/</guid>
-      <description>Work 2013 - 2018 researcher @Leiden University Medical Center
+      <description>Work 2019 - statistician / data scientist @Danone Nutricia Research
+2013 - 2018 researcher @Leiden University Medical Center
 [Department of Biomedical Data Sciences] [Survival analysis group]
 Education 2018 - PhD in biostatistics, Leiden University Medical Center
 [PhD project: Advances in frailty models]
 [Doing a PhD after a MSc (video)]
 2013 - MSc cum laude in statistical science, Leiden University
-[Thesis: Joint Modeling of Recurrent and Terminal Events] [Master programme statistical science]
-2011 - BSc in applied mathematics, University of Bucharest</description>
+[Thesis: Joint Modeling of Recurrent and Terminal Events] [Master programme statistical science]</description>
     </item>
     
     <item>
@@ -195,10 +195,9 @@ Education 2018 - PhD in biostatistics, Leiden University Medical Center
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tbalan.github.io/projects/</guid>
-      <description>publications  Effect models considerably overestimated the heterogeneity of treatment effect in simulated trial populations (van Klaveren, Balan, Steyerberg, Kent)
-under review The effect of treatment delay on time-to-recovery in the presence of unobserved heterogeneity (van Geloven, Balan, Putter, le Cessie)
-under review Non-proportional hazards and unobserved heterogeneity in clustered survival data: When can we tell the difference? (Balan, Putter)
-under review frailtyEM: an R package for estimating semiparametric shared frailty models (Balan, Putter)</description>
+      <description>publications  Models with interactions overestimated heterogeneity of treatment effects and were prone to treatment mistargeting (van Klaveren*, Balan*, Steyerberg, Kent)
+Journal of Clinical Epidemiology (2019), Volume 114, Pages 72-83 Non-proportional hazards and unobserved heterogeneity in clustered survival data: When can we tell the difference? (Balan, Putter)
+Statistics in Medicine (2019), Volume 38, Issue 18, Pages 3405-3420 frailtyEM: an R package for estimating semiparametric shared frailty models (Balan, Putter)</description>
     </item>
     
     <item>
