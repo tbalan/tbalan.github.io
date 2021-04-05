@@ -1,22 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Theodor Balan</title>
-    <link>https://tbalan.github.io/categories/</link>
+    <link>http://www.tbalan.com/categories/</link>
     <description>Recent content in Categories on Theodor Balan</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2017 Theodor Balan</copyright>
+    <language>en</language>
+    <lastBuildDate>Thu, 17 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://www.tbalan.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Development</title>
+      <link>http://www.tbalan.com/categories/development/</link>
+      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.tbalan.com/categories/development/</guid>
+      <description></description>
+    </item>
     
-	<atom:link href="https://tbalan.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    
+    <item>
+      <title>blog</title>
+      <link>http://www.tbalan.com/categories/blog/</link>
+      <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.tbalan.com/categories/blog/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>R</title>
-      <link>https://tbalan.github.io/categories/r/</link>
+      <link>http://www.tbalan.com/categories/r/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://tbalan.github.io/categories/r/</guid>
+      <guid>http://www.tbalan.com/categories/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>golang</title>
+      <link>http://www.tbalan.com/categories/golang/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.tbalan.com/categories/golang/</guid>
       <description></description>
     </item>
     
