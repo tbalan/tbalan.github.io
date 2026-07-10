@@ -1,0 +1,13 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - images/**
+
+format:
+  html:
+    theme: none
+    css: styles.css
+    include-in-header: partials/head-theme-init.html
+    include-before-body: partials/header.html
+    include-after-body: partials/footer.html

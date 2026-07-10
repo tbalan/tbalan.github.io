@@ -1,0 +1,16 @@
+---
+title: "404 Page not found"
+pagetitle: "404 · Theodor Balan"
+---
+
+```{=html}
+<main>
+  <div class="wrap">
+    <div style="text-align: center; padding: 3rem 0;">
+      <h1>404</h1>
+      <h2 style="text-transform: none; margin-top: 1rem; font-size: 1.2rem; border: none; padding: 0; letter-spacing: 0; text-transform: none; color: var(--text);">Page Not Found</h2>
+      <p style="margin-top: 1.5rem; color: var(--text-muted);">Sorry, this page does not exist.<br />You can head back to <a href="/">homepage</a>.</p>
+    </div>
+  </div>
+</main>
+```

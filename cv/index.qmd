@@ -1,0 +1,160 @@
+---
+title: "CV"
+pagetitle: "CV · Theodor Balan"
+---
+
+```{=html}
+<main>
+  <div class="wrap">
+    <h1>CV</h1>
+
+    <h2>Work</h2>
+
+    <p>Currently @<a href="https://www.nutriciaresearch.com">Danone Nutricia Research</a></p>
+
+    <div class="cv-entry">
+      <div class="cv-date">2020 – now</div>
+      <div>
+        <div class="cv-role">Senior data scientist</div>
+      </div>
+    </div>
+
+    <div class="cv-entry">
+      <div class="cv-date">2019 – 2020</div>
+      <div>
+        <div class="cv-role">Statistician</div>
+      </div>
+    </div>
+
+    <p>Previously @Leiden University Medical Center</p>
+
+    <div class="cv-entry">
+      <div class="cv-date">2018 – 2019</div>
+      <div>
+        <div class="cv-role">Guest researcher</div>
+      </div>
+    </div>
+
+    <div class="cv-entry">
+      <div class="cv-date">2013 – 2018</div>
+      <div>
+        <div class="cv-role">Trainee researcher / PhD student</div>
+        <div class="cv-detail"><a href="https://www.lumc.nl/org/bds/?setlanguage=English&amp;setcountry=en">Department of Biomedical Data Sciences</a> · <a href="https://www.lumc.nl/org/bds/research/medische-statistiek/survival-analysis/">Survival analysis group</a></div>
+      </div>
+    </div>
+
+    <h2>Education</h2>
+
+    <div class="cv-entry">
+      <div class="cv-date">2018</div>
+      <div>
+        <div class="cv-role">PhD in Medical Statistics</div>
+        <div class="cv-org">Leiden University</div>
+        <div class="cv-detail"><a href="../stuff/phd">PhD project: Advances in frailty models</a></div>
+      </div>
+    </div>
+
+    <div class="cv-entry">
+      <div class="cv-date">2013</div>
+      <div>
+        <div class="cv-role">MSc <em>cum laude</em> in Statistical science</div>
+        <div class="cv-org">Leiden University</div>
+        <div class="cv-detail"><a href="https://www.universiteitleiden.nl/binaries/content/assets/science/mi/scripties/masterbalan.pdf">Thesis: Joint Modeling of Recurrent and Terminal Events</a> · <a href="http://www.math.leidenuniv.nl/statisticalscience/">Master programme statistical science</a></div>
+      </div>
+    </div>
+
+    <div class="cv-entry">
+      <div class="cv-date">2011</div>
+      <div>
+        <div class="cv-role">BSc in Applied mathematics</div>
+        <div class="cv-org">University of Bucharest</div>
+      </div>
+    </div>
+
+    <h2>Tools &amp; Skills</h2>
+
+    <div style="margin-bottom: 1.75rem;">
+      <p style="margin: 0 0 1rem; font-size: 0.9rem; color: var(--text-muted);">(^^^ = proficient &nbsp; ^^ = good &nbsp; ^ = basic)</p>
+
+      <div class="skill-row">
+        <span class="skill-label">Software development</span>
+        <span class="skill-value"><span class="lvl-3">R•••</span></span>
+      </div>
+      <div class="skill-row">
+        <span class="skill-label">Version control</span>
+        <span class="skill-value"><span class="lvl-2">git••</span></span>
+      </div>
+      <div class="skill-row">
+        <span class="skill-label">Coding languages</span>
+        <span class="skill-value"><span class="lvl-3">R•••</span>, <span class="lvl-1">C++•</span>, <span class="lvl-1">python•</span>, <span class="lvl-1">bash•</span></span>
+      </div>
+      <div class="skill-row">
+        <span class="skill-label">Statistical software</span>
+        <span class="skill-value"><span class="lvl-2">SPSS••</span>, <span class="lvl-1">SAS•</span></span>
+      </div>
+      <div class="skill-row">
+        <span class="skill-label">Typesetting</span>
+        <span class="skill-value"><span class="lvl-3">LaTeX•••</span>, <span class="lvl-2">Markdown••</span></span>
+      </div>
+      <div class="skill-row">
+        <span class="skill-label">Data visualization</span>
+        <span class="skill-value"><span class="lvl-3">ggplot2•••</span>, <span class="lvl-1">d3.js•</span></span>
+      </div>
+      <div class="skill-row">
+        <span class="skill-label">Web applications</span>
+        <span class="skill-value"><span class="lvl-2">shiny••</span></span>
+      </div>
+      <div class="skill-row">
+        <span class="skill-label">Biostatistics &amp; survival</span>
+        <span class="skill-value"><span class="lvl-3">•••</span></span>
+      </div>
+      <div class="skill-row">
+        <span class="skill-label">Study design &amp; epidemiology</span>
+        <span class="skill-value"><span class="lvl-2">••</span></span>
+      </div>
+      <div class="skill-row">
+        <span class="skill-label">Mixed models</span>
+        <span class="skill-value"><span class="lvl-2">••</span></span>
+      </div>
+      <div class="skill-row">
+        <span class="skill-label">Bayesian statistics</span>
+        <span class="skill-value"><span class="lvl-1">•</span></span>
+      </div>
+      <div class="skill-row">
+        <span class="skill-label">Machine / deep learning</span>
+        <span class="skill-value"><span class="lvl-1">•</span></span>
+      </div>
+    </div>
+
+    <h3 style="font-size: 0.95rem; margin: 1.5rem 0 1rem; text-transform: none; letter-spacing: 0; border: none; padding: 0; color: var(--text); text-transform: uppercase; letter-spacing: 0.08em; font-size: 0.78rem; color: var(--text-muted);">R Expertise</h3>
+
+    <ul style="margin: 0 0 1rem; padding-left: 1.5rem;">
+      <li>Full proficiency</li>
+      <li>Data visualization (ggplot2)</li>
+      <li>Data wrangling (tidyverse)</li>
+      <li>Reporting &amp; dashboards (rmarkdown, shiny)</li>
+      <li>Package development and maintaining (frailtyEM, dynfrail)</li>
+    </ul>
+
+    <h3 style="font-size: 0.95rem; margin: 1.5rem 0 1rem; text-transform: none; letter-spacing: 0; border: none; padding: 0; color: var(--text); text-transform: uppercase; letter-spacing: 0.08em; font-size: 0.78rem; color: var(--text-muted);">Other Languages</h3>
+
+    <ul style="margin: 0 0 1rem; padding-left: 1.5rem;">
+      <li>SAS, working experience</li>
+      <li>SPSS, working &amp; teaching experience</li>
+      <li>Python, working experience</li>
+      <li>C++, limited experience</li>
+      <li>bash, intermediate experience</li>
+      <li>LaTeX, working experience</li>
+      <li>Markdown, working experience</li>
+      <li>Scala, limited experience</li>
+    </ul>
+
+    <h3 style="font-size: 0.95rem; margin: 1.5rem 0 1rem; text-transform: none; letter-spacing: 0; border: none; padding: 0; color: var(--text); text-transform: uppercase; letter-spacing: 0.08em; font-size: 0.78rem; color: var(--text-muted);">Platforms</h3>
+
+    <ul style="margin: 0 0 1rem; padding-left: 1.5rem;">
+      <li>Databricks, working experience</li>
+      <li>SAS / LSAF, working experience</li>
+    </ul>
+  </div>
+</main>
+```

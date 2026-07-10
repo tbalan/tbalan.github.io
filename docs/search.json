@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "CV",
+    "section": "",
+    "text": "CV\n  \n    CV\n\n    Work\n\n    Currently @Danone Nutricia Research\n\n    \n      2020 – now\n      \n        Senior data scientist\n      \n    \n\n    \n      2019 – 2020\n      \n        Statistician\n      \n    \n\n    Previously @Leiden University Medical Center\n\n    \n      2018 – 2019\n      \n        Guest researcher\n      \n    \n\n    \n      2013 – 2018\n      \n        Trainee researcher / PhD student\n        Department of Biomedical Data Sciences · Survival analysis group\n      \n    \n\n    Education\n\n    \n      2018\n      \n        PhD in Medical Statistics\n        Leiden University\n        PhD project: Advances in frailty models\n      \n    \n\n    \n      2013\n      \n        MSc cum laude in Statistical science\n        Leiden University\n        Thesis: Joint Modeling of Recurrent and Terminal Events · Master programme statistical science\n      \n    \n\n    \n      2011\n      \n        BSc in Applied mathematics\n        University of Bucharest\n      \n    \n\n    Tools & Skills\n\n    \n      (^^^ = proficient   ^^ = good   ^ = basic)\n\n      \n        Software development\n        R•••\n      \n      \n        Version control\n        git••\n      \n      \n        Coding languages\n        R•••, C++•, python•, bash•\n      \n      \n        Statistical software\n        SPSS••, SAS•\n      \n      \n        Typesetting\n        LaTeX•••, Markdown••\n      \n      \n        Data visualization\n        ggplot2•••, d3.js•\n      \n      \n        Web applications\n        shiny••\n      \n      \n        Biostatistics & survival\n        •••\n      \n      \n        Study design & epidemiology\n        ••\n      \n      \n        Mixed models\n        ••\n      \n      \n        Bayesian statistics\n        •\n      \n      \n        Machine / deep learning\n        •\n      \n    \n\n    R Expertise\n\n    \n      Full proficiency\n      Data visualization (ggplot2)\n      Data wrangling (tidyverse)\n      Reporting & dashboards (rmarkdown, shiny)\n      Package development and maintaining (frailtyEM, dynfrail)\n    \n\n    Other Languages\n\n    \n      SAS, working experience\n      SPSS, working & teaching experience\n      Python, working experience\n      C++, limited experience\n      bash, intermediate experience\n      LaTeX, working experience\n      Markdown, working experience\n      Scala, limited experience\n    \n\n    Platforms\n\n    \n      Databricks, working experience\n      SAS / LSAF, working experience"
+  },
+  {
+    "objectID": "about/index.html",
+    "href": "about/index.html",
+    "title": "About",
+    "section": "",
+    "text": "About\n  \n    About\n\n    I'm a data scientist with a background in biostatistics and mathematics.\nI'm interested in survival analysis, causal inference and machine learning.\nI mostly code in R, and am the author and maintainer of the frailtyEM package. I have a PhD degree from Leiden University based on methodological research in frailty models.\n\n    I've worked in academia at the Leiden University Medical Center from 2013 to 2018.\nSince 2019 I work as a data scientist at Danone Nutricia Research in development of solutions for\nearly life nutrition and medical foods.\n\n    For more info you can send me an email, check out some of my code\non Github, my work & education history on LinkedIn, my peer-reviewed publications on\nGoogle Scholar or my\noccasional blog posts on Medium."
+  },
+  {
+    "objectID": "contact/index.html",
+    "href": "contact/index.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Contact\n  \n    Contact\n\n    \n      \n        Email\n        hello@tbalan.com\n      \n      \n        GitHub\n        github.com/tbalan\n      \n      \n        LinkedIn\n        linkedin.com/in/thbalan\n      \n      \n        Google Scholar\n        Scholar Profile\n      \n      \n        Medium\n        medium.com/@thbalan"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Theodor Balan",
+    "section": "",
+    "text": "Theodor Balan\n  \n    \n      \n        \n      \n      \n        Theodor Balan, PhD\n        Data Scientist  |  Statistician  |  R programmer\n        \n          Email\n          GitHub\n          LinkedIn\n          Medium\n          Scholar"
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Blog\n\n&lt;h1&gt;Blog&lt;/h1&gt;"
+  }
+]

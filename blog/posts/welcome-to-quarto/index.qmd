@@ -1,0 +1,41 @@
+---
+title: "Welcome to Quarto"
+date: 2026-07-11
+categories:
+  - quarto
+  - r
+description: "A sample blog post demonstrating the Quarto authoring workflow."
+---
+
+Welcome to your new Quarto blog! This sample post demonstrates how to write and publish blog posts. You can include code, plots, and formatted text just like in R Markdown.
+
+## Example: Simple R Analysis
+
+Here's a quick example with some R code:
+
+```{r}
+# Summary statistics
+summary(mtcars$mpg)
+
+# Create a simple plot
+plot(mtcars$wt, mtcars$mpg,
+     main = "Fuel Efficiency by Weight",
+     xlab = "Weight (1000 lbs)",
+     ylab = "Miles per Gallon",
+     pch = 19,
+     col = "#0d7d75")
+
+# Add a trend line
+abline(lm(mpg ~ wt, data = mtcars), col = "#0d7d75", lwd = 2)
+```
+
+## Next Steps
+
+To add a new blog post:
+
+1. Copy this folder (`blog/posts/welcome-to-quarto/`)
+2. Rename it to something like `my-first-post`
+3. Edit `index.qmd` with your content
+4. Run `quarto render` to rebuild the site
+
+Happy writing!

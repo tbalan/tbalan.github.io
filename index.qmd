@@ -1,0 +1,27 @@
+---
+title: "Theodor Balan"
+pagetitle: "Theodor Balan"
+---
+
+```{=html}
+<main>
+  <div class="wrap">
+    <div class="hero">
+      <div class="avatar">
+        <img src="/images/avatar.jpg" alt="avatar">
+      </div>
+      <div class="hero-text">
+        <h1>Theodor Balan, PhD</h1>
+        <p class="tagline">Data Scientist  |  Statistician  |  R programmer</p>
+        <div class="links-row">
+          <a href="mailto:hello@tbalan.com">Email</a>
+          <a href="https://github.com/tbalan/">GitHub</a>
+          <a href="https://www.linkedin.com/in/thbalan/">LinkedIn</a>
+          <a href="https://medium.com/@thbalan">Medium</a>
+          <a href="https://scholar.google.com/citations?user=-v5tVyUAAAAJ&hl=en">Scholar</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</main>
+```
