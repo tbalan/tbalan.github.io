@@ -1,6 +1,12 @@
 project:
   type: website
   output-dir: docs
+  # Only .qmd files are website pages. This excludes repo docs like
+  # EDITING.md and CLAUDE.md, which otherwise break `quarto render`
+  # (EDITING.md contains an example ```{r} block Quarto tries to execute).
+  render:
+    - "*.qmd"
+    - "**/*.qmd"
   resources:
     - images/**
 
