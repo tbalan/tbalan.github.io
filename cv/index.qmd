@@ -3,170 +3,237 @@ title: "CV"
 pagetitle: "CV · Theodor Balan"
 ---
 
-```{=html}
 <main>
-  <div class="wrap">
-    <h1>CV</h1>
 
-    <h2>Work</h2>
+::: {.wrap}
 
-    <p>Currently @<a href="https://www.booking.com">Booking.com</a></p>
+## Work
 
-    <div class="cv-entry">
-      <div class="cv-date">2024 – now</div>
-      <div>
-        <div class="cv-role">Senior data scientist</div>
-      </div>
-    </div>
+Currently @[Booking.com](https://www.booking.com)
 
-    <div class="cv-entry">
-      <div class="cv-date">2022 – 2024</div>
-      <div>
-        <div class="cv-role">Data scientist</div>
-        <div class="cv-detail">Causal inference and experimentation for two-sided marketplaces</div>
-      </div>
-    </div>
+::: {.cv-entry}
+::: {.cv-date}
+2024 – now
+:::
+::: {}
+::: {.cv-role}
+Senior data scientist
+:::
+:::
+:::
 
-    <p>Previously @<a href="https://www.nutriciaresearch.com">Danone Nutricia Research</a></p>
+::: {.cv-entry}
+::: {.cv-date}
+2022 – 2024
+:::
+::: {}
+::: {.cv-role}
+Data scientist
+:::
+::: {.cv-detail}
+Causal inference and experimentation for two-sided marketplaces
+:::
+:::
+:::
 
-    <div class="cv-entry">
-      <div class="cv-date">2020 – 2022</div>
-      <div>
-        <div class="cv-role">Senior data scientist</div>
-        <div class="cv-detail">Infant feeding patterns, feeding &amp; growth, recipe optimisation with compositional data; causal inference, machine learning and data visualisation</div>
-      </div>
-    </div>
+Previously @[Danone Nutricia Research](https://www.nutriciaresearch.com)
 
-    <div class="cv-entry">
-      <div class="cv-date">2019 – 2020</div>
-      <div>
-        <div class="cv-role">Statistician</div>
-        <div class="cv-detail">Statistical protocol design, interim and post-analysis for phase 2 early-life-nutrition trials</div>
-      </div>
-    </div>
+::: {.cv-entry}
+::: {.cv-date}
+2020 – 2022
+:::
+::: {}
+::: {.cv-role}
+Senior data scientist
+:::
+::: {.cv-detail}
+Infant feeding patterns, feeding & growth, recipe optimisation with compositional data; causal inference, machine learning and data visualisation
+:::
+:::
+:::
 
-    <p>Previously @Leiden University Medical Center</p>
+::: {.cv-entry}
+::: {.cv-date}
+2019 – 2020
+:::
+::: {}
+::: {.cv-role}
+Statistician
+:::
+::: {.cv-detail}
+Statistical protocol design, interim and post-analysis for phase 2 early-life-nutrition trials
+:::
+:::
+:::
 
-    <div class="cv-entry">
-      <div class="cv-date">2013 – 2018</div>
-      <div>
-        <div class="cv-role">Trainee researcher / PhD student</div>
-        <div class="cv-detail"><a href="https://www.lumc.nl/org/bds/?setlanguage=English&amp;setcountry=en">Department of Biomedical Data Sciences</a> · <a href="https://www.lumc.nl/org/bds/research/medische-statistiek/survival-analysis/">Survival analysis group</a></div>
-      </div>
-    </div>
+Previously at Leiden University Medical Center
 
-    <h2>Education</h2>
+::: {.cv-entry}
+::: {.cv-date}
+2013 – 2018
+:::
+::: {}
+::: {.cv-role}
+Trainee researcher / PhD student
+:::
+::: {.cv-detail}
+[Department of Biomedical Data Sciences](https://www.lumc.nl/org/bds/?setlanguage=English&setcountry=en) · [Survival analysis group](https://www.lumc.nl/org/bds/research/medische-statistiek/survival-analysis/)
+:::
+:::
+:::
 
-    <div class="cv-entry">
-      <div class="cv-date">2018</div>
-      <div>
-        <div class="cv-role">PhD in Medical Statistics</div>
-        <div class="cv-org">Leiden University</div>
-        <div class="cv-detail"><a href="../stuff/phd">PhD project: Advances in frailty models</a></div>
-      </div>
-    </div>
+## Education
 
-    <div class="cv-entry">
-      <div class="cv-date">2013</div>
-      <div>
-        <div class="cv-role">MSc <em>cum laude</em> in Statistical science</div>
-        <div class="cv-org">Leiden University</div>
-        <div class="cv-detail"><a href="https://www.universiteitleiden.nl/binaries/content/assets/science/mi/scripties/masterbalan.pdf">Thesis: Joint Modeling of Recurrent and Terminal Events</a> · <a href="http://www.math.leidenuniv.nl/statisticalscience/">Master programme statistical science</a></div>
-      </div>
-    </div>
+::: {.cv-entry}
+::: {.cv-date}
+2018
+:::
+::: {}
+::: {.cv-role}
+PhD in Medical Statistics
+:::
+::: {.cv-org}
+Leiden University
+:::
+::: {.cv-detail}
+[PhD project: Advances in frailty models](../stuff/phd)
+:::
+:::
+:::
 
-    <div class="cv-entry">
-      <div class="cv-date">2011</div>
-      <div>
-        <div class="cv-role">BSc in Applied mathematics</div>
-        <div class="cv-org">University of Bucharest</div>
-      </div>
-    </div>
+::: {.cv-entry}
+::: {.cv-date}
+2013
+:::
+::: {}
+::: {.cv-role}
+MSc *cum laude* in Statistical science
+:::
+::: {.cv-org}
+Leiden University
+:::
+::: {.cv-detail}
+[Thesis: Joint Modeling of Recurrent and Terminal Events](https://www.universiteitleiden.nl/binaries/content/assets/science/mi/scripties/masterbalan.pdf) · [Master programme statistical science](http://www.math.leidenuniv.nl/statisticalscience/)
+:::
+:::
+:::
 
-    <h2>Tools &amp; Skills</h2>
+::: {.cv-entry}
+::: {.cv-date}
+2011
+:::
+::: {}
+::: {.cv-role}
+BSc in Applied mathematics
+:::
+::: {.cv-org}
+University of Bucharest
+:::
+:::
+:::
 
-    <div style="margin-bottom: 1.75rem;">
-      <p style="margin: 0 0 1rem; font-size: 0.9rem; color: var(--text-muted);">(^^^ = proficient &nbsp; ^^ = good &nbsp; ^ = basic)</p>
+## Tools & Skills
 
-      <div class="skill-row">
-        <span class="skill-label">Software development</span>
-        <span class="skill-value"><span class="lvl-3">R•••</span></span>
-      </div>
-      <div class="skill-row">
-        <span class="skill-label">Version control</span>
-        <span class="skill-value"><span class="lvl-2">git••</span></span>
-      </div>
-      <div class="skill-row">
-        <span class="skill-label">Coding languages</span>
-        <span class="skill-value"><span class="lvl-3">R•••</span>, <span class="lvl-1">C++•</span>, <span class="lvl-1">python•</span>, <span class="lvl-1">bash•</span></span>
-      </div>
-      <div class="skill-row">
-        <span class="skill-label">Statistical software</span>
-        <span class="skill-value"><span class="lvl-2">SPSS••</span>, <span class="lvl-1">SAS•</span></span>
-      </div>
-      <div class="skill-row">
-        <span class="skill-label">Typesetting</span>
-        <span class="skill-value"><span class="lvl-3">LaTeX•••</span>, <span class="lvl-2">Markdown••</span></span>
-      </div>
-      <div class="skill-row">
-        <span class="skill-label">Data visualization</span>
-        <span class="skill-value"><span class="lvl-3">ggplot2•••</span>, <span class="lvl-1">d3.js•</span></span>
-      </div>
-      <div class="skill-row">
-        <span class="skill-label">Web applications</span>
-        <span class="skill-value"><span class="lvl-2">shiny••</span></span>
-      </div>
-      <div class="skill-row">
-        <span class="skill-label">Biostatistics &amp; survival</span>
-        <span class="skill-value"><span class="lvl-3">•••</span></span>
-      </div>
-      <div class="skill-row">
-        <span class="skill-label">Study design &amp; epidemiology</span>
-        <span class="skill-value"><span class="lvl-2">••</span></span>
-      </div>
-      <div class="skill-row">
-        <span class="skill-label">Mixed models</span>
-        <span class="skill-value"><span class="lvl-2">••</span></span>
-      </div>
-      <div class="skill-row">
-        <span class="skill-label">Bayesian statistics</span>
-        <span class="skill-value"><span class="lvl-1">•</span></span>
-      </div>
-      <div class="skill-row">
-        <span class="skill-label">Machine / deep learning</span>
-        <span class="skill-value"><span class="lvl-1">•</span></span>
-      </div>
-    </div>
+::: {.skill-note}
+(^^^ = proficient &nbsp; ^^ = good &nbsp; ^ = basic)
+:::
 
-    <h3 style="font-size: 0.95rem; margin: 1.5rem 0 1rem; text-transform: none; letter-spacing: 0; border: none; padding: 0; color: var(--text); text-transform: uppercase; letter-spacing: 0.08em; font-size: 0.78rem; color: var(--text-muted);">R Expertise</h3>
+::: {.skill-row}
+[Software development]{.skill-label}
 
-    <ul style="margin: 0 0 1rem; padding-left: 1.5rem;">
-      <li>Full proficiency</li>
-      <li>Data visualization (ggplot2)</li>
-      <li>Data wrangling (tidyverse)</li>
-      <li>Reporting &amp; dashboards (rmarkdown, shiny)</li>
-      <li>Package development and maintaining (frailtyEM, dynfrail)</li>
-    </ul>
+[[R•••]{.lvl-3}]{.skill-value}
+:::
 
-    <h3 style="font-size: 0.95rem; margin: 1.5rem 0 1rem; text-transform: none; letter-spacing: 0; border: none; padding: 0; color: var(--text); text-transform: uppercase; letter-spacing: 0.08em; font-size: 0.78rem; color: var(--text-muted);">Other Languages</h3>
+::: {.skill-row}
+[Version control]{.skill-label}
 
-    <ul style="margin: 0 0 1rem; padding-left: 1.5rem;">
-      <li>SAS, working experience</li>
-      <li>SPSS, working &amp; teaching experience</li>
-      <li>Python, working experience</li>
-      <li>C++, limited experience</li>
-      <li>bash, intermediate experience</li>
-      <li>LaTeX, working experience</li>
-      <li>Markdown, working experience</li>
-      <li>Scala, limited experience</li>
-    </ul>
+[[git••]{.lvl-2}]{.skill-value}
+:::
 
-    <h3 style="font-size: 0.95rem; margin: 1.5rem 0 1rem; text-transform: none; letter-spacing: 0; border: none; padding: 0; color: var(--text); text-transform: uppercase; letter-spacing: 0.08em; font-size: 0.78rem; color: var(--text-muted);">Platforms</h3>
+::: {.skill-row}
+[Coding languages]{.skill-label}
 
-    <ul style="margin: 0 0 1rem; padding-left: 1.5rem;">
-      <li>Databricks, working experience</li>
-      <li>SAS / LSAF, working experience</li>
-    </ul>
-  </div>
+[[R•••]{.lvl-3}, [C++•]{.lvl-1}, [python•]{.lvl-1}, [bash•]{.lvl-1}]{.skill-value}
+:::
+
+::: {.skill-row}
+[Statistical software]{.skill-label}
+
+[[SPSS••]{.lvl-2}, [SAS•]{.lvl-1}]{.skill-value}
+:::
+
+::: {.skill-row}
+[Typesetting]{.skill-label}
+
+[[LaTeX•••]{.lvl-3}, [Markdown••]{.lvl-2}]{.skill-value}
+:::
+
+::: {.skill-row}
+[Data visualization]{.skill-label}
+
+[[ggplot2•••]{.lvl-3}, [d3.js•]{.lvl-1}]{.skill-value}
+:::
+
+::: {.skill-row}
+[Web applications]{.skill-label}
+
+[[shiny••]{.lvl-2}]{.skill-value}
+:::
+
+::: {.skill-row}
+[Biostatistics & survival]{.skill-label}
+
+[[•••]{.lvl-3}]{.skill-value}
+:::
+
+::: {.skill-row}
+[Study design & epidemiology]{.skill-label}
+
+[[••]{.lvl-2}]{.skill-value}
+:::
+
+::: {.skill-row}
+[Mixed models]{.skill-label}
+
+[[••]{.lvl-2}]{.skill-value}
+:::
+
+::: {.skill-row}
+[Bayesian statistics]{.skill-label}
+
+[[•]{.lvl-1}]{.skill-value}
+:::
+
+::: {.skill-row}
+[Machine / deep learning]{.skill-label}
+
+[[•]{.lvl-1}]{.skill-value}
+:::
+
+### R Expertise {.subhead}
+
+- Full proficiency
+- Data visualization (ggplot2)
+- Data wrangling (tidyverse)
+- Reporting & dashboards (rmarkdown, shiny)
+- Package development and maintaining (frailtyEM, dynfrail)
+
+### Other Languages {.subhead}
+
+- SAS, working experience
+- SPSS, working & teaching experience
+- Python, working experience
+- C++, limited experience
+- bash, intermediate experience
+- LaTeX, working experience
+- Markdown, working experience
+- Scala, limited experience
+
+### Platforms {.subhead}
+
+- Databricks, working experience
+- SAS / LSAF, working experience
+
+:::
+
 </main>
-```

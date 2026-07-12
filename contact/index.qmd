@@ -3,33 +3,34 @@ title: "Contact"
 pagetitle: "Contact · Theodor Balan"
 ---
 
-```{=html}
 <main>
-  <div class="wrap">
-    <h1>Contact</h1>
 
-    <ul class="contact-list">
-      <li>
-        <span class="contact-label">Email</span>
-        <a href="mailto:hello@tbalan.com">hello@tbalan.com</a>
-      </li>
-      <li>
-        <span class="contact-label">GitHub</span>
-        <a href="https://github.com/tbalan/">github.com/tbalan</a>
-      </li>
-      <li>
-        <span class="contact-label">LinkedIn</span>
-        <a href="https://www.linkedin.com/in/thbalan/">linkedin.com/in/thbalan</a>
-      </li>
-      <li>
-        <span class="contact-label">Google Scholar</span>
-        <a href="https://scholar.google.com/citations?user=-v5tVyUAAAAJ&hl=en">Scholar Profile</a>
-      </li>
-      <li>
-        <span class="contact-label">Medium</span>
-        <a href="https://medium.com/@thbalan">medium.com/@thbalan</a>
-      </li>
-    </ul>
-  </div>
+::: {.wrap}
+
+::: {.contact-list}
+
+::: {.contact-row}
+[Email]{.contact-label} [hello@tbalan.com](mailto:hello@tbalan.com)
+:::
+
+::: {.contact-row}
+[GitHub]{.contact-label} [github.com/tbalan](https://github.com/tbalan/)
+:::
+
+::: {.contact-row}
+[LinkedIn]{.contact-label} [linkedin.com/in/thbalan](https://www.linkedin.com/in/thbalan/)
+:::
+
+::: {.contact-row}
+[Google Scholar]{.contact-label} [Scholar Profile](https://scholar.google.com/citations?user=-v5tVyUAAAAJ&hl=en)
+:::
+
+::: {.contact-row}
+[Medium]{.contact-label} [medium.com/@thbalan](https://medium.com/@thbalan)
+:::
+
+:::
+
+:::
+
 </main>
-```

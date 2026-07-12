@@ -2,13 +2,19 @@
 title: "Blog"
 pagetitle: "Blog · Theodor Balan"
 listing:
+  id: posts
   contents: posts
   sort: "date desc"
   type: default
 ---
 
 <main>
-  <div class="wrap">
-    <h1>Blog</h1>
-  </div>
+
+::: {.wrap}
+
+:::{#posts}
+:::
+
+:::
+
 </main>

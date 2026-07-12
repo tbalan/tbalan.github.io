@@ -9,6 +9,7 @@ project:
     - "**/*.qmd"
   resources:
     - images/**
+    - js/**
 
 format:
   html:
